@@ -52,8 +52,8 @@ Explore sales trends, category performance, and customer purchasing patterns.
 | Folder | Contents |
 |---|---|
 | [dashboard](dashboard/Retail_Sales_Dashboard.xlsx..xlsx) | Excel workbook |
-| [data](data/retail_sales_prepared.csv) | Uploaded dataset |
-| [screenshots](screenshots/) | Dashboard images |
+| [data](data/) | Uploaded dataset |
+| [screenshots](screenshots/Screenshot 2026-09-10 054638.png) | Dashboard images |
 
 <details>
 <summary><strong>Tools and analysis workflow</strong></summary>
