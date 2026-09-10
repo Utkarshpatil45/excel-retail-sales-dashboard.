@@ -1,6 +1,6 @@
 <div align="center">
 
-# Retail Sales Dashboard
+# 📊 Retail Sales Dashboard
 ### Excel Sales Analysis · 2023
 
 Explore sales trends, category performance, and customer purchasing patterns.
@@ -15,13 +15,13 @@ Explore sales trends, category performance, and customer purchasing patterns.
 
 ---
 
-## Dashboard Preview
+## 🖼️ Dashboard Preview
 
 ![Retail Sales Dashboard](screenshots/Screenshot%202026-09-10%20054638.png)
 
 > **Interactive filters:** Product Category and Gender. Download the workbook and open it in Excel to use the slicers.
 
-## Performance at a Glance
+## 📈 Performance at a Glance
 
 | Total Revenue¹ | Transactions | Units Sold | Average Transaction Value¹ |
 |:---:|:---:|:---:|:---:|
@@ -29,7 +29,7 @@ Explore sales trends, category performance, and customer purchasing patterns.
 
 ¹ Currency is unverified. Results cover 2023 with all slicers cleared.
 
-## Key Findings
+## 💡 Key Findings
 
 | Business Question | Finding |
 |---|---|
@@ -39,7 +39,7 @@ Explore sales trends, category performance, and customer purchasing patterns.
 | Which age group generated the most revenue? | **30–44 — 143,920** |
 | Which age group had the highest average bill? | **Under 30 — 490.66** |
 
-## How to Explore
+## 🚀 How to Explore
 
 1. Open the [dashboard folder](dashboard/) and download the Excel workbook.
 2. Open the workbook in Microsoft Excel.
@@ -47,7 +47,7 @@ Explore sales trends, category performance, and customer purchasing patterns.
 4. Use **Product Category** and **Gender** slicers to explore results.
 5. Clear both filters to restore the overall 2023 view.
 
-## Project Files
+## 📁 Project Files
 
 | Folder | Contents |
 |---|---|
