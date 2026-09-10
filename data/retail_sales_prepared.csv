@@ -1,0 +1,1001 @@
+﻿Transaction ID,Date,Customer ID,Gender,Age, State ,Product Category,Quantity,Price per Unit,Total Amount,Month Start,Age Group
+1,24-11-2023,CUST001,Male,34, Rajasthan ,Beauty,3,50,150,Nov 2023,30-44
+2,27-02-2023,CUST002,Female,26, Bihar ,Clothing,2,500,1000,Feb 2023,Under 30
+3,13-01-2023,CUST003,Male,50, Andhra Pradesh ,Electronics,1,30,30,Jan 2023,45-59
+4,21-05-2023,CUST004,Male,37, Telangana ,Clothing,1,500,500,May 2023,30-44
+5,06-05-2023,CUST005,Male,30, Himachal Pradesh ,Beauty,2,50,100,May 2023,30-44
+6,25-04-2023,CUST006,Female,45, Haryana ,Beauty,1,30,30,Apr 2023,45-59
+7,13-03-2023,CUST007,Male,46, Haryana ,Clothing,2,25,50,Mar 2023,45-59
+8,22-02-2023,CUST008,Male,30, Chhattisgarh ,Electronics,4,25,100,Feb 2023,30-44
+9,13-12-2023,CUST009,Male,63, Telangana ,Electronics,2,300,600,Dec 2023,60+
+10,07-10-2023,CUST010,Female,52, Bihar ,Clothing,4,50,200,Oct 2023,45-59
+11,14-02-2023,CUST011,Male,23, Sikkim ,Clothing,2,50,100,Feb 2023,Under 30
+12,30-10-2023,CUST012,Male,35, Telangana ,Beauty,3,25,75,Oct 2023,30-44
+13,05-08-2023,CUST013,Male,22, Nagaland ,Electronics,3,500,1500,Aug 2023,Under 30
+14,17-01-2023,CUST014,Male,64, Assam ,Clothing,4,30,120,Jan 2023,60+
+15,16-01-2023,CUST015,Female,42, Odisha ,Electronics,4,500,2000,Jan 2023,30-44
+16,17-02-2023,CUST016,Male,19, Maharashtra ,Clothing,3,500,1500,Feb 2023,Under 30
+17,22-04-2023,CUST017,Female,27, Arunachal Pradesh ,Clothing,4,25,100,Apr 2023,Under 30
+18,30-04-2023,CUST018,Female,47, Andhra Pradesh ,Electronics,2,25,50,Apr 2023,45-59
+19,16-09-2023,CUST019,Female,62, Assam ,Clothing,2,25,50,Sep 2023,60+
+20,05-11-2023,CUST020,Male,22, Gujarat ,Clothing,3,300,900,Nov 2023,Under 30
+21,14-01-2023,CUST021,Female,50, Haryana ,Beauty,1,500,500,Jan 2023,45-59
+22,15-10-2023,CUST022,Male,18, Mizoram ,Clothing,2,50,100,Oct 2023,Under 30
+23,12-04-2023,CUST023,Female,35, Punjab ,Clothing,4,30,120,Apr 2023,30-44
+24,29-11-2023,CUST024,Female,49, Andhra Pradesh ,Clothing,1,300,300,Nov 2023,45-59
+25,26-12-2023,CUST025,Female,64, Nagaland ,Beauty,1,50,50,Dec 2023,60+
+26,07-10-2023,CUST026,Female,28, Gujarat ,Electronics,2,500,1000,Oct 2023,Under 30
+27,03-08-2023,CUST027,Female,38, Tamil Nadu ,Beauty,2,25,50,Aug 2023,30-44
+28,23-04-2023,CUST028,Female,43, Rajasthan ,Beauty,1,500,500,Apr 2023,30-44
+29,18-08-2023,CUST029,Female,42, Tamil Nadu ,Electronics,1,30,30,Aug 2023,30-44
+30,29-10-2023,CUST030,Female,39, Nagaland ,Beauty,3,300,900,Oct 2023,30-44
+31,23-05-2023,CUST031,Male,44, Maharashtra ,Electronics,4,300,1200,May 2023,30-44
+32,04-01-2023,CUST032,Male,30, Haryana ,Beauty,3,30,90,Jan 2023,30-44
+33,23-03-2023,CUST033,Female,50, Manipur ,Electronics,2,50,100,Mar 2023,45-59
+34,24-12-2023,CUST034,Female,51, Odisha ,Clothing,3,50,150,Dec 2023,45-59
+35,05-08-2023,CUST035,Female,58, Himachal Pradesh ,Beauty,3,300,900,Aug 2023,45-59
+36,24-06-2023,CUST036,Male,52, Uttar Pradesh ,Beauty,3,300,900,Jun 2023,45-59
+37,23-05-2023,CUST037,Female,18, West Bengal ,Beauty,3,25,75,May 2023,Under 30
+38,21-03-2023,CUST038,Male,38, Andhra Pradesh ,Beauty,4,50,200,Mar 2023,30-44
+39,21-04-2023,CUST039,Male,23, Tripura ,Clothing,4,30,120,Apr 2023,Under 30
+40,22-06-2023,CUST040,Male,45, Uttar Pradesh ,Beauty,1,50,50,Jun 2023,45-59
+41,22-02-2023,CUST041,Male,34, Goa ,Clothing,2,25,50,Feb 2023,30-44
+42,17-02-2023,CUST042,Male,22, Tamil Nadu ,Clothing,3,300,900,Feb 2023,Under 30
+43,14-07-2023,CUST043,Female,48, Maharashtra ,Clothing,1,300,300,Jul 2023,45-59
+44,19-02-2023,CUST044,Female,22, Karnataka ,Clothing,1,25,25,Feb 2023,Under 30
+45,03-07-2023,CUST045,Female,55, Himachal Pradesh ,Electronics,1,30,30,Jul 2023,45-59
+46,26-06-2023,CUST046,Female,20, Chhattisgarh ,Electronics,4,300,1200,Jun 2023,Under 30
+47,06-11-2023,CUST047,Female,40, Gujarat ,Beauty,3,500,1500,Nov 2023,30-44
+48,16-05-2023,CUST048,Male,54, Tripura ,Electronics,3,300,900,May 2023,45-59
+49,23-01-2023,CUST049,Female,54, Karnataka ,Electronics,2,500,1000,Jan 2023,45-59
+50,24-08-2023,CUST050,Female,27, Bihar ,Beauty,3,25,75,Aug 2023,Under 30
+51,02-10-2023,CUST051,Male,27, Assam ,Beauty,3,25,75,Oct 2023,Under 30
+52,05-03-2023,CUST052,Female,36, Madhya Pradesh ,Beauty,1,300,300,Mar 2023,30-44
+53,13-07-2023,CUST053,Male,34, Bihar ,Electronics,2,50,100,Jul 2023,30-44
+54,10-02-2023,CUST054,Female,38, Kerala ,Electronics,3,500,1500,Feb 2023,30-44
+55,10-10-2023,CUST055,Male,31, West Bengal ,Beauty,4,30,120,Oct 2023,30-44
+56,31-05-2023,CUST056,Female,26, Kerala ,Clothing,3,300,900,May 2023,Under 30
+57,18-11-2023,CUST057,Female,63, Punjab ,Beauty,1,30,30,Nov 2023,60+
+58,13-11-2023,CUST058,Male,18, Himachal Pradesh ,Clothing,4,300,1200,Nov 2023,Under 30
+59,05-07-2023,CUST059,Male,62, Uttar Pradesh ,Clothing,1,50,50,Jul 2023,60+
+60,23-10-2023,CUST060,Male,30, Arunachal Pradesh ,Beauty,3,50,150,Oct 2023,30-44
+61,09-04-2023,CUST061,Male,21, Telangana ,Beauty,4,50,200,Apr 2023,Under 30
+62,27-12-2023,CUST062,Male,18, Manipur ,Beauty,2,50,100,Dec 2023,Under 30
+63,05-02-2023,CUST063,Male,57, Nagaland ,Electronics,2,25,50,Feb 2023,45-59
+64,24-01-2023,CUST064,Male,49, Bihar ,Clothing,4,25,100,Jan 2023,45-59
+65,05-12-2023,CUST065,Male,51, Madhya Pradesh ,Electronics,4,500,2000,Dec 2023,45-59
+66,27-04-2023,CUST066,Female,45, Assam ,Electronics,1,30,30,Apr 2023,45-59
+67,29-05-2023,CUST067,Female,48, Nagaland ,Beauty,4,300,1200,May 2023,45-59
+68,10-02-2023,CUST068,Male,25, Jharkhand ,Electronics,1,300,300,Feb 2023,Under 30
+69,30-04-2023,CUST069,Female,56, Uttarakhand ,Beauty,3,25,75,Apr 2023,45-59
+70,21-02-2023,CUST070,Female,43, Rajasthan ,Clothing,1,300,300,Feb 2023,30-44
+71,14-07-2023,CUST071,Female,51, Punjab ,Beauty,4,25,100,Jul 2023,45-59
+72,23-05-2023,CUST072,Female,20, West Bengal ,Electronics,4,500,2000,May 2023,Under 30
+73,21-08-2023,CUST073,Male,29, Kerala ,Electronics,3,30,90,Aug 2023,Under 30
+74,22-11-2023,CUST074,Female,18, Odisha ,Beauty,4,500,2000,Nov 2023,Under 30
+75,06-07-2023,CUST075,Male,61, Gujarat ,Beauty,4,50,200,Jul 2023,60+
+76,25-03-2023,CUST076,Female,22, Tamil Nadu ,Electronics,2,50,100,Mar 2023,Under 30
+77,09-07-2023,CUST077,Female,47, Assam ,Clothing,2,50,100,Jul 2023,45-59
+78,01-07-2023,CUST078,Female,47, Arunachal Pradesh ,Clothing,3,500,1500,Jul 2023,45-59
+79,18-04-2023,CUST079,Male,34, Sikkim ,Beauty,1,300,300,Apr 2023,30-44
+80,10-12-2023,CUST080,Female,64, Haryana ,Clothing,2,30,60,Dec 2023,60+
+81,17-05-2023,CUST081,Male,40, Tripura ,Electronics,1,50,50,May 2023,30-44
+82,26-12-2023,CUST082,Female,32, Jharkhand ,Beauty,4,50,200,Dec 2023,30-44
+83,16-12-2023,CUST083,Male,54, Assam ,Electronics,2,50,100,Dec 2023,45-59
+84,28-11-2023,CUST084,Female,38, West Bengal ,Electronics,3,30,90,Nov 2023,30-44
+85,06-02-2023,CUST085,Male,31, Haryana ,Clothing,3,50,150,Feb 2023,30-44
+86,08-11-2023,CUST086,Male,19, West Bengal ,Beauty,3,30,90,Nov 2023,Under 30
+87,22-11-2023,CUST087,Female,28, Bihar ,Beauty,2,50,100,Nov 2023,Under 30
+88,29-03-2023,CUST088,Male,56, Madhya Pradesh ,Clothing,1,500,500,Mar 2023,45-59
+89,01-10-2023,CUST089,Female,55, Himachal Pradesh ,Electronics,4,500,2000,Oct 2023,45-59
+90,06-05-2023,CUST090,Female,51, Manipur ,Electronics,1,30,30,May 2023,45-59
+91,25-03-2023,CUST091,Female,55, Rajasthan ,Electronics,1,500,500,Mar 2023,45-59
+92,25-08-2023,CUST092,Female,51, Uttarakhand ,Electronics,4,30,120,Aug 2023,45-59
+93,14-07-2023,CUST093,Female,35, Kerala ,Beauty,4,500,2000,Jul 2023,30-44
+94,19-05-2023,CUST094,Female,47, Goa ,Beauty,2,500,1000,May 2023,45-59
+95,24-11-2023,CUST095,Female,32, Kerala ,Clothing,2,30,60,Nov 2023,30-44
+96,19-12-2023,CUST096,Female,44, Kerala ,Clothing,2,300,600,Dec 2023,30-44
+97,13-10-2023,CUST097,Female,51, Gujarat ,Beauty,2,500,1000,Oct 2023,45-59
+98,23-04-2023,CUST098,Female,55, Sikkim ,Beauty,2,50,100,Apr 2023,45-59
+99,17-12-2023,CUST099,Female,50, Himachal Pradesh ,Electronics,4,300,1200,Dec 2023,45-59
+100,16-06-2023,CUST100,Male,41, Tamil Nadu ,Electronics,1,30,30,Jun 2023,30-44
+101,29-01-2023,CUST101,Male,32, Sikkim ,Clothing,2,300,600,Jan 2023,30-44
+102,28-04-2023,CUST102,Female,47, Rajasthan ,Beauty,2,25,50,Apr 2023,45-59
+103,17-01-2023,CUST103,Female,59, Assam ,Clothing,1,25,25,Jan 2023,45-59
+104,11-06-2023,CUST104,Female,34, Punjab ,Beauty,2,500,1000,Jun 2023,30-44
+105,25-07-2023,CUST105,Female,22, Rajasthan ,Electronics,1,500,500,Jul 2023,Under 30
+106,18-05-2023,CUST106,Female,46, Goa ,Clothing,1,50,50,May 2023,45-59
+107,03-02-2023,CUST107,Female,21, Nagaland ,Clothing,4,300,1200,Feb 2023,Under 30
+108,19-04-2023,CUST108,Female,27, Telangana ,Beauty,3,25,75,Apr 2023,Under 30
+109,18-10-2023,CUST109,Female,34, Haryana ,Electronics,4,500,2000,Oct 2023,30-44
+110,11-06-2023,CUST110,Male,27, Goa ,Clothing,3,300,900,Jun 2023,Under 30
+111,19-04-2023,CUST111,Female,34, Manipur ,Electronics,3,500,1500,Apr 2023,30-44
+112,02-12-2023,CUST112,Male,37, Madhya Pradesh ,Clothing,3,500,1500,Dec 2023,30-44
+113,13-09-2023,CUST113,Female,41, Himachal Pradesh ,Electronics,2,25,50,Sep 2023,30-44
+114,22-07-2023,CUST114,Female,22, Rajasthan ,Beauty,4,25,100,Jul 2023,Under 30
+115,26-11-2023,CUST115,Male,51, Tamil Nadu ,Clothing,3,500,1500,Nov 2023,45-59
+116,23-08-2023,CUST116,Female,23, Nagaland ,Clothing,1,30,30,Aug 2023,Under 30
+117,15-03-2023,CUST117,Male,19, Haryana ,Electronics,2,500,1000,Mar 2023,Under 30
+118,16-05-2023,CUST118,Female,30, Sikkim ,Electronics,4,500,2000,May 2023,30-44
+119,13-03-2023,CUST119,Female,60, Karnataka ,Clothing,3,50,150,Mar 2023,60+
+120,07-05-2023,CUST120,Male,60, Uttarakhand ,Beauty,1,50,50,May 2023,60+
+121,15-10-2023,CUST121,Female,28, Tripura ,Electronics,4,50,200,Oct 2023,Under 30
+122,03-10-2023,CUST122,Male,64, Tripura ,Electronics,4,30,120,Oct 2023,60+
+123,15-05-2023,CUST123,Female,40, Arunachal Pradesh ,Electronics,2,30,60,May 2023,30-44
+124,27-10-2023,CUST124,Male,33, Haryana ,Clothing,4,500,2000,Oct 2023,30-44
+125,08-08-2023,CUST125,Male,48, Uttarakhand ,Clothing,2,50,100,Aug 2023,45-59
+126,26-10-2023,CUST126,Female,28, Arunachal Pradesh ,Clothing,3,30,90,Oct 2023,Under 30
+127,24-07-2023,CUST127,Female,33, Uttar Pradesh ,Clothing,2,25,50,Jul 2023,30-44
+128,05-07-2023,CUST128,Male,25, Karnataka ,Beauty,1,500,500,Jul 2023,Under 30
+129,23-04-2023,CUST129,Female,21, Madhya Pradesh ,Beauty,2,300,600,Apr 2023,Under 30
+130,12-03-2023,CUST130,Female,57, Himachal Pradesh ,Clothing,1,500,500,Mar 2023,45-59
+131,18-09-2023,CUST131,Female,21, Assam ,Beauty,2,300,600,Sep 2023,Under 30
+132,10-09-2023,CUST132,Male,42, Gujarat ,Electronics,4,50,200,Sep 2023,30-44
+133,16-02-2023,CUST133,Male,20, Odisha ,Electronics,3,300,900,Feb 2023,Under 30
+134,25-01-2023,CUST134,Male,49, Tamil Nadu ,Electronics,1,50,50,Jan 2023,45-59
+135,26-02-2023,CUST135,Male,20, Karnataka ,Clothing,2,25,50,Feb 2023,Under 30
+136,20-03-2023,CUST136,Male,44, Gujarat ,Electronics,2,300,600,Mar 2023,30-44
+137,18-11-2023,CUST137,Male,46, Rajasthan ,Beauty,2,500,1000,Nov 2023,45-59
+138,23-03-2023,CUST138,Male,49, Meghalaya ,Clothing,4,50,200,Mar 2023,45-59
+139,15-12-2023,CUST139,Male,36, Madhya Pradesh ,Beauty,4,500,2000,Dec 2023,30-44
+140,05-08-2023,CUST140,Male,38, Rajasthan ,Electronics,1,30,30,Aug 2023,30-44
+141,02-11-2023,CUST141,Female,22, Manipur ,Electronics,1,50,50,Nov 2023,Under 30
+142,02-02-2023,CUST142,Male,35, Chhattisgarh ,Electronics,4,300,1200,Feb 2023,30-44
+143,17-07-2023,CUST143,Female,45, Himachal Pradesh ,Clothing,1,50,50,Jul 2023,45-59
+144,15-07-2023,CUST144,Female,59, Chhattisgarh ,Beauty,3,500,1500,Jul 2023,45-59
+145,02-11-2023,CUST145,Female,39, Haryana ,Clothing,3,25,75,Nov 2023,30-44
+146,28-08-2023,CUST146,Male,38, Telangana ,Clothing,4,50,200,Aug 2023,30-44
+147,28-09-2023,CUST147,Male,23, Nagaland ,Electronics,1,300,300,Sep 2023,Under 30
+148,09-05-2023,CUST148,Male,18, Nagaland ,Clothing,2,30,60,May 2023,Under 30
+149,11-10-2023,CUST149,Male,22, Himachal Pradesh ,Clothing,3,25,75,Oct 2023,Under 30
+150,06-01-2023,CUST150,Female,58, Telangana ,Electronics,4,30,120,Jan 2023,45-59
+151,15-12-2023,CUST151,Male,29, Odisha ,Clothing,1,50,50,Dec 2023,Under 30
+152,28-02-2023,CUST152,Male,43, Maharashtra ,Electronics,4,500,2000,Feb 2023,30-44
+153,16-12-2023,CUST153,Male,63, Odisha ,Electronics,2,500,1000,Dec 2023,60+
+154,02-10-2023,CUST154,Male,51, Madhya Pradesh ,Electronics,3,300,900,Oct 2023,45-59
+155,17-05-2023,CUST155,Male,31, Kerala ,Electronics,4,500,2000,May 2023,30-44
+156,25-11-2023,CUST156,Female,43, Haryana ,Clothing,4,25,100,Nov 2023,30-44
+157,24-06-2023,CUST157,Male,62, Chhattisgarh ,Electronics,4,500,2000,Jun 2023,60+
+158,27-02-2023,CUST158,Female,44, Mizoram ,Electronics,2,300,600,Feb 2023,30-44
+159,31-05-2023,CUST159,Male,26, Meghalaya ,Clothing,4,50,200,May 2023,Under 30
+160,11-08-2023,CUST160,Female,43, Assam ,Clothing,2,50,100,Aug 2023,30-44
+161,22-03-2023,CUST161,Male,64, Tripura ,Beauty,2,500,1000,Mar 2023,60+
+162,21-08-2023,CUST162,Male,39, Arunachal Pradesh ,Clothing,2,30,60,Aug 2023,30-44
+163,02-01-2023,CUST163,Female,64, West Bengal ,Clothing,3,50,150,Jan 2023,60+
+164,15-05-2023,CUST164,Female,47, Bihar ,Beauty,3,500,1500,May 2023,45-59
+165,14-09-2023,CUST165,Female,60, Chhattisgarh ,Clothing,4,300,1200,Sep 2023,60+
+166,02-04-2023,CUST166,Male,34, Rajasthan ,Clothing,4,500,2000,Apr 2023,30-44
+167,17-09-2023,CUST167,Female,43, Goa ,Clothing,3,50,150,Sep 2023,30-44
+168,24-02-2023,CUST168,Male,53, Uttar Pradesh ,Clothing,1,300,300,Feb 2023,45-59
+169,17-11-2023,CUST169,Male,18, Sikkim ,Beauty,3,500,1500,Nov 2023,Under 30
+170,02-06-2023,CUST170,Female,25, Maharashtra ,Clothing,2,25,50,Jun 2023,Under 30
+171,24-11-2023,CUST171,Female,52, Punjab ,Clothing,3,300,900,Nov 2023,45-59
+172,17-09-2023,CUST172,Male,32, Assam ,Beauty,2,25,50,Sep 2023,30-44
+173,08-11-2023,CUST173,Male,64, Madhya Pradesh ,Electronics,4,30,120,Nov 2023,60+
+174,12-04-2023,CUST174,Female,39, Madhya Pradesh ,Beauty,1,300,300,Apr 2023,30-44
+175,20-03-2023,CUST175,Female,31, Punjab ,Electronics,4,25,100,Mar 2023,30-44
+176,11-07-2023,CUST176,Female,43, Manipur ,Beauty,2,50,100,Jul 2023,30-44
+177,24-03-2023,CUST177,Male,45, Mizoram ,Beauty,2,50,100,Mar 2023,45-59
+178,04-10-2023,CUST178,Male,40, Himachal Pradesh ,Clothing,2,30,60,Oct 2023,30-44
+179,29-09-2023,CUST179,Male,31, Nagaland ,Electronics,1,300,300,Sep 2023,30-44
+180,01-01-2023,CUST180,Male,41, West Bengal ,Clothing,3,300,900,Jan 2023,30-44
+181,03-11-2023,CUST181,Male,19, Andhra Pradesh ,Electronics,4,300,1200,Nov 2023,Under 30
+182,15-06-2023,CUST182,Male,62, Sikkim ,Beauty,4,30,120,Jun 2023,60+
+183,08-09-2023,CUST183,Female,43, Telangana ,Beauty,3,300,900,Sep 2023,30-44
+184,10-01-2023,CUST184,Male,31, Bihar ,Electronics,4,50,200,Jan 2023,30-44
+185,27-02-2023,CUST185,Male,24, Sikkim ,Clothing,1,25,25,Feb 2023,Under 30
+186,05-07-2023,CUST186,Male,20, Nagaland ,Clothing,4,50,200,Jul 2023,Under 30
+187,07-06-2023,CUST187,Female,64, Tripura ,Clothing,2,50,100,Jun 2023,60+
+188,03-05-2023,CUST188,Male,40, Himachal Pradesh ,Clothing,3,25,75,May 2023,30-44
+189,30-01-2023,CUST189,Male,63, Tripura ,Beauty,1,50,50,Jan 2023,60+
+190,04-05-2023,CUST190,Female,60, Rajasthan ,Beauty,3,30,90,May 2023,60+
+191,18-10-2023,CUST191,Male,64, Karnataka ,Beauty,1,25,25,Oct 2023,60+
+192,10-02-2023,CUST192,Male,62, Bihar ,Beauty,2,50,100,Feb 2023,60+
+193,13-02-2023,CUST193,Male,35, Jharkhand ,Beauty,3,500,1500,Feb 2023,30-44
+194,06-09-2023,CUST194,Male,55, Maharashtra ,Clothing,4,50,200,Sep 2023,45-59
+195,05-02-2023,CUST195,Male,52, Goa ,Clothing,1,30,30,Feb 2023,45-59
+196,30-09-2023,CUST196,Female,32, Manipur ,Clothing,3,300,900,Sep 2023,30-44
+197,06-03-2023,CUST197,Female,42, Andhra Pradesh ,Clothing,4,50,200,Mar 2023,30-44
+198,07-03-2023,CUST198,Female,54, Telangana ,Beauty,3,300,900,Mar 2023,45-59
+199,04-12-2023,CUST199,Male,45, Telangana ,Beauty,3,500,1500,Dec 2023,45-59
+200,01-09-2023,CUST200,Male,27, Himachal Pradesh ,Beauty,3,50,150,Sep 2023,Under 30
+201,09-10-2023,CUST201,Male,56, Mizoram ,Electronics,1,25,25,Oct 2023,45-59
+202,26-03-2023,CUST202,Female,34, Tripura ,Clothing,4,300,1200,Mar 2023,30-44
+203,16-05-2023,CUST203,Male,56, Goa ,Clothing,2,500,1000,May 2023,45-59
+204,28-09-2023,CUST204,Male,39, Mizoram ,Beauty,1,25,25,Sep 2023,30-44
+205,07-11-2023,CUST205,Female,43, Bihar ,Clothing,1,25,25,Nov 2023,30-44
+206,05-08-2023,CUST206,Male,61, West Bengal ,Clothing,1,25,25,Aug 2023,60+
+207,19-04-2023,CUST207,Female,42, Rajasthan ,Beauty,2,25,50,Apr 2023,30-44
+208,04-10-2023,CUST208,Female,34, Jharkhand ,Electronics,4,50,200,Oct 2023,30-44
+209,20-12-2023,CUST209,Female,30, Uttarakhand ,Electronics,4,50,200,Dec 2023,30-44
+210,13-04-2023,CUST210,Male,37, Rajasthan ,Electronics,4,50,200,Apr 2023,30-44
+211,01-01-2024,CUST211,Male,42, Mizoram ,Beauty,3,500,1500,Jan 2024,30-44
+212,09-06-2023,CUST212,Male,21, Punjab ,Clothing,3,500,1500,Jun 2023,Under 30
+213,24-07-2023,CUST213,Male,27, Gujarat ,Beauty,3,500,1500,Jul 2023,Under 30
+214,10-12-2023,CUST214,Male,20, Chhattisgarh ,Beauty,2,30,60,Dec 2023,Under 30
+215,29-11-2023,CUST215,Male,58, Kerala ,Clothing,3,500,1500,Nov 2023,45-59
+216,11-07-2023,CUST216,Male,62, Tripura ,Electronics,2,50,100,Jul 2023,60+
+217,13-08-2023,CUST217,Female,35, Goa ,Electronics,4,50,200,Aug 2023,30-44
+218,22-09-2023,CUST218,Male,64, Nagaland ,Beauty,3,30,90,Sep 2023,60+
+219,20-08-2023,CUST219,Female,53, Tripura ,Electronics,3,30,90,Aug 2023,45-59
+220,03-03-2023,CUST220,Male,64, Mizoram ,Beauty,1,500,500,Mar 2023,60+
+221,07-05-2023,CUST221,Male,39, Andhra Pradesh ,Beauty,2,300,600,May 2023,30-44
+222,26-04-2023,CUST222,Male,51, Punjab ,Clothing,4,30,120,Apr 2023,45-59
+223,02-02-2023,CUST223,Female,64, Karnataka ,Clothing,1,25,25,Feb 2023,60+
+224,23-06-2023,CUST224,Female,25, Meghalaya ,Clothing,1,50,50,Jun 2023,Under 30
+225,11-01-2023,CUST225,Female,57, Andhra Pradesh ,Beauty,4,25,100,Jan 2023,45-59
+226,29-10-2023,CUST226,Female,61, Bihar ,Clothing,1,50,50,Oct 2023,60+
+227,11-10-2023,CUST227,Male,36, Kerala ,Electronics,2,50,100,Oct 2023,30-44
+228,28-04-2023,CUST228,Female,59, Uttarakhand ,Electronics,2,30,60,Apr 2023,45-59
+229,29-10-2023,CUST229,Male,58, Uttar Pradesh ,Beauty,3,30,90,Oct 2023,45-59
+230,23-04-2023,CUST230,Male,54, Jharkhand ,Beauty,1,25,25,Apr 2023,45-59
+231,04-01-2023,CUST231,Female,23, Haryana ,Clothing,3,50,150,Jan 2023,Under 30
+232,06-02-2023,CUST232,Female,43, Arunachal Pradesh ,Beauty,1,25,25,Feb 2023,30-44
+233,29-12-2023,CUST233,Female,51, Haryana ,Beauty,2,300,600,Dec 2023,45-59
+234,20-11-2023,CUST234,Female,62, Odisha ,Electronics,2,25,50,Nov 2023,60+
+235,31-01-2023,CUST235,Female,23, Assam ,Electronics,2,500,1000,Jan 2023,Under 30
+236,28-04-2023,CUST236,Female,54, Assam ,Clothing,1,25,25,Apr 2023,45-59
+237,04-02-2023,CUST237,Female,50, Telangana ,Beauty,2,500,1000,Feb 2023,45-59
+238,17-01-2023,CUST238,Female,39, Meghalaya ,Beauty,1,500,500,Jan 2023,30-44
+239,19-06-2023,CUST239,Male,38, Uttarakhand ,Electronics,3,500,1500,Jun 2023,30-44
+240,06-02-2023,CUST240,Female,23, Assam ,Beauty,1,300,300,Feb 2023,Under 30
+241,21-09-2023,CUST241,Female,23, Tripura ,Electronics,3,25,75,Sep 2023,Under 30
+242,02-05-2023,CUST242,Male,21, Nagaland ,Clothing,1,25,25,May 2023,Under 30
+243,23-05-2023,CUST243,Female,47, Tripura ,Electronics,3,300,900,May 2023,45-59
+244,09-12-2023,CUST244,Male,28, Chhattisgarh ,Beauty,2,50,100,Dec 2023,Under 30
+245,06-09-2023,CUST245,Male,47, Chhattisgarh ,Clothing,3,30,90,Sep 2023,45-59
+246,20-04-2023,CUST246,Female,48, Sikkim ,Electronics,2,25,50,Apr 2023,45-59
+247,04-10-2023,CUST247,Male,41, Meghalaya ,Electronics,2,30,60,Oct 2023,30-44
+248,09-03-2023,CUST248,Male,26, Nagaland ,Clothing,3,300,900,Mar 2023,Under 30
+249,20-10-2023,CUST249,Male,20, Goa ,Clothing,1,50,50,Oct 2023,Under 30
+250,23-10-2023,CUST250,Male,48, Himachal Pradesh ,Electronics,1,50,50,Oct 2023,45-59
+251,31-08-2023,CUST251,Female,57, Mizoram ,Beauty,4,50,200,Aug 2023,45-59
+252,05-05-2023,CUST252,Male,54, West Bengal ,Electronics,1,300,300,May 2023,45-59
+253,31-08-2023,CUST253,Female,53, Punjab ,Clothing,4,500,2000,Aug 2023,45-59
+254,28-07-2023,CUST254,Male,41, Maharashtra ,Electronics,1,500,500,Jul 2023,30-44
+255,08-04-2023,CUST255,Male,48, Gujarat ,Clothing,1,30,30,Apr 2023,45-59
+256,18-02-2023,CUST256,Male,23, Nagaland ,Clothing,2,500,1000,Feb 2023,Under 30
+257,19-02-2023,CUST257,Male,19, Tripura ,Beauty,4,500,2000,Feb 2023,Under 30
+258,04-12-2023,CUST258,Female,37, Telangana ,Clothing,1,50,50,Dec 2023,30-44
+259,09-08-2023,CUST259,Female,45, Tamil Nadu ,Clothing,4,50,200,Aug 2023,45-59
+260,01-07-2023,CUST260,Male,28, Gujarat ,Beauty,2,30,60,Jul 2023,Under 30
+261,05-08-2023,CUST261,Male,21, Tamil Nadu ,Clothing,2,25,50,Aug 2023,Under 30
+262,30-07-2023,CUST262,Female,32, Jharkhand ,Beauty,4,30,120,Jul 2023,30-44
+263,28-08-2023,CUST263,Male,23, Madhya Pradesh ,Beauty,2,30,60,Aug 2023,Under 30
+264,28-01-2023,CUST264,Male,47, Sikkim ,Clothing,3,300,900,Jan 2023,45-59
+265,11-12-2023,CUST265,Male,55, Rajasthan ,Clothing,3,300,900,Dec 2023,45-59
+266,01-12-2023,CUST266,Female,19, Kerala ,Electronics,2,30,60,Dec 2023,Under 30
+267,27-11-2023,CUST267,Female,32, Manipur ,Beauty,3,30,90,Nov 2023,30-44
+268,20-02-2023,CUST268,Female,28, Mizoram ,Electronics,1,30,30,Feb 2023,Under 30
+269,01-02-2023,CUST269,Male,25, Manipur ,Clothing,4,500,2000,Feb 2023,Under 30
+270,26-07-2023,CUST270,Male,43, Bihar ,Electronics,1,300,300,Jul 2023,30-44
+271,23-06-2023,CUST271,Female,62, Haryana ,Beauty,4,30,120,Jun 2023,60+
+272,25-02-2023,CUST272,Female,61, Haryana ,Electronics,2,50,100,Feb 2023,60+
+273,08-05-2023,CUST273,Female,22, Assam ,Beauty,1,50,50,May 2023,Under 30
+274,09-04-2023,CUST274,Female,23, Karnataka ,Clothing,2,500,1000,Apr 2023,Under 30
+275,08-04-2023,CUST275,Male,43, Andhra Pradesh ,Clothing,2,500,1000,Apr 2023,30-44
+276,02-10-2023,CUST276,Female,21, Odisha ,Beauty,4,25,100,Oct 2023,Under 30
+277,18-08-2023,CUST277,Male,36, Nagaland ,Clothing,4,25,100,Aug 2023,30-44
+278,13-03-2023,CUST278,Female,37, Haryana ,Clothing,4,25,100,Mar 2023,30-44
+279,05-08-2023,CUST279,Male,50, Odisha ,Clothing,1,500,500,Aug 2023,45-59
+280,04-04-2023,CUST280,Female,37, Haryana ,Clothing,3,500,1500,Apr 2023,30-44
+281,23-05-2023,CUST281,Female,29, Andhra Pradesh ,Beauty,4,500,2000,May 2023,Under 30
+282,25-08-2023,CUST282,Female,64, Assam ,Electronics,4,50,200,Aug 2023,60+
+283,08-05-2023,CUST283,Female,18, Tamil Nadu ,Electronics,1,500,500,May 2023,Under 30
+284,08-02-2023,CUST284,Male,43, Rajasthan ,Clothing,4,50,200,Feb 2023,30-44
+285,15-08-2023,CUST285,Female,31, Arunachal Pradesh ,Electronics,1,25,25,Aug 2023,30-44
+286,09-10-2023,CUST286,Male,55, Haryana ,Electronics,2,25,50,Oct 2023,45-59
+287,20-02-2023,CUST287,Male,54, Assam ,Clothing,4,25,100,Feb 2023,45-59
+288,26-01-2023,CUST288,Male,28, Arunachal Pradesh ,Clothing,4,30,120,Jan 2023,Under 30
+289,30-11-2023,CUST289,Male,53, West Bengal ,Electronics,2,30,60,Nov 2023,45-59
+290,04-10-2023,CUST290,Female,30, Karnataka ,Beauty,2,300,600,Oct 2023,30-44
+291,08-01-2023,CUST291,Male,60, Assam ,Clothing,2,300,600,Jan 2023,60+
+292,17-02-2023,CUST292,Male,20, Mizoram ,Beauty,4,300,1200,Feb 2023,Under 30
+293,02-05-2023,CUST293,Male,50, Haryana ,Electronics,3,30,90,May 2023,45-59
+294,27-03-2023,CUST294,Female,23, Himachal Pradesh ,Clothing,3,30,90,Mar 2023,Under 30
+295,28-07-2023,CUST295,Female,27, Sikkim ,Beauty,3,300,900,Jul 2023,Under 30
+296,06-09-2023,CUST296,Female,22, Meghalaya ,Clothing,4,300,1200,Sep 2023,Under 30
+297,04-09-2023,CUST297,Female,40, Gujarat ,Electronics,2,500,1000,Sep 2023,30-44
+298,20-04-2023,CUST298,Male,27, Nagaland ,Beauty,4,300,1200,Apr 2023,Under 30
+299,25-07-2023,CUST299,Male,61, Chhattisgarh ,Electronics,2,500,1000,Jul 2023,60+
+300,31-01-2023,CUST300,Female,19, Telangana ,Electronics,4,50,200,Jan 2023,Under 30
+301,26-03-2023,CUST301,Male,30, Odisha ,Clothing,4,30,120,Mar 2023,30-44
+302,14-07-2023,CUST302,Male,57, Odisha ,Beauty,2,300,600,Jul 2023,45-59
+303,02-01-2023,CUST303,Male,19, Meghalaya ,Electronics,3,30,90,Jan 2023,Under 30
+304,19-07-2023,CUST304,Female,37, Haryana ,Electronics,2,30,60,Jul 2023,30-44
+305,16-05-2023,CUST305,Female,18, Uttar Pradesh ,Beauty,1,30,30,May 2023,Under 30
+306,21-08-2023,CUST306,Male,54, Meghalaya ,Electronics,1,50,50,Aug 2023,45-59
+307,27-05-2023,CUST307,Female,26, Uttar Pradesh ,Electronics,2,25,50,May 2023,Under 30
+308,05-08-2023,CUST308,Female,34, Maharashtra ,Beauty,4,300,1200,Aug 2023,30-44
+309,23-12-2023,CUST309,Female,26, Gujarat ,Beauty,1,25,25,Dec 2023,Under 30
+310,12-10-2023,CUST310,Female,28, Bihar ,Beauty,1,25,25,Oct 2023,Under 30
+311,05-12-2023,CUST311,Female,32, Bihar ,Beauty,4,25,100,Dec 2023,30-44
+312,07-09-2023,CUST312,Male,41, Sikkim ,Clothing,4,30,120,Sep 2023,30-44
+313,21-03-2023,CUST313,Female,55, Maharashtra ,Beauty,3,500,1500,Mar 2023,45-59
+314,08-04-2023,CUST314,Male,52, Kerala ,Clothing,4,30,120,Apr 2023,45-59
+315,01-06-2023,CUST315,Male,47, Maharashtra ,Clothing,2,30,60,Jun 2023,45-59
+316,22-04-2023,CUST316,Female,48, Maharashtra ,Clothing,2,25,50,Apr 2023,45-59
+317,30-01-2023,CUST317,Male,22, Manipur ,Electronics,3,30,90,Jan 2023,Under 30
+318,24-10-2023,CUST318,Male,61, West Bengal ,Clothing,1,25,25,Oct 2023,60+
+319,05-10-2023,CUST319,Male,31, Telangana ,Clothing,1,500,500,Oct 2023,30-44
+320,01-02-2023,CUST320,Female,28, Arunachal Pradesh ,Electronics,4,300,1200,Feb 2023,Under 30
+321,10-06-2023,CUST321,Female,26, Sikkim ,Electronics,2,25,50,Jun 2023,Under 30
+322,30-01-2023,CUST322,Male,51, Rajasthan ,Electronics,1,500,500,Jan 2023,45-59
+323,26-01-2023,CUST323,Female,29, Rajasthan ,Beauty,3,300,900,Jan 2023,Under 30
+324,27-10-2023,CUST324,Female,52, Bihar ,Electronics,3,50,150,Oct 2023,45-59
+325,02-09-2023,CUST325,Female,52, Arunachal Pradesh ,Electronics,2,25,50,Sep 2023,45-59
+326,15-09-2023,CUST326,Female,18, Madhya Pradesh ,Clothing,3,25,75,Sep 2023,Under 30
+327,29-09-2023,CUST327,Male,57, Telangana ,Electronics,3,50,150,Sep 2023,45-59
+328,22-03-2023,CUST328,Male,39, Karnataka ,Beauty,2,50,100,Mar 2023,30-44
+329,30-01-2023,CUST329,Female,46, Uttar Pradesh ,Electronics,4,25,100,Jan 2023,45-59
+330,18-09-2023,CUST330,Female,25, West Bengal ,Beauty,4,50,200,Sep 2023,Under 30
+331,11-02-2023,CUST331,Male,28, Bihar ,Electronics,3,30,90,Feb 2023,Under 30
+332,06-04-2023,CUST332,Male,58, Haryana ,Electronics,4,300,1200,Apr 2023,45-59
+333,05-02-2023,CUST333,Female,54, Gujarat ,Electronics,4,300,1200,Feb 2023,45-59
+334,01-11-2023,CUST334,Male,31, Gujarat ,Electronics,3,300,900,Nov 2023,30-44
+335,04-02-2023,CUST335,Female,47, Nagaland ,Beauty,4,30,120,Feb 2023,45-59
+336,12-12-2023,CUST336,Female,52, Manipur ,Beauty,3,50,150,Dec 2023,45-59
+337,01-05-2023,CUST337,Male,38, Chhattisgarh ,Clothing,1,500,500,May 2023,30-44
+338,26-07-2023,CUST338,Male,54, Maharashtra ,Beauty,2,50,100,Jul 2023,45-59
+339,03-03-2023,CUST339,Female,22, Goa ,Electronics,2,25,50,Mar 2023,Under 30
+340,19-10-2023,CUST340,Female,36, Himachal Pradesh ,Clothing,4,300,1200,Oct 2023,30-44
+341,07-05-2023,CUST341,Male,31, Manipur ,Clothing,4,50,200,May 2023,30-44
+342,24-10-2023,CUST342,Female,43, Haryana ,Clothing,4,500,2000,Oct 2023,30-44
+343,01-11-2023,CUST343,Male,21, West Bengal ,Electronics,2,25,50,Nov 2023,Under 30
+344,21-01-2023,CUST344,Female,42, Assam ,Beauty,1,30,30,Jan 2023,30-44
+345,14-11-2023,CUST345,Male,62, Manipur ,Electronics,1,30,30,Nov 2023,60+
+346,11-02-2023,CUST346,Male,59, Uttar Pradesh ,Clothing,2,500,1000,Feb 2023,45-59
+347,03-08-2023,CUST347,Male,42, West Bengal ,Electronics,1,25,25,Aug 2023,30-44
+348,03-12-2023,CUST348,Female,35, West Bengal ,Electronics,2,300,600,Dec 2023,30-44
+349,26-10-2023,CUST349,Female,57, Nagaland ,Beauty,1,50,50,Oct 2023,45-59
+350,17-10-2023,CUST350,Male,25, Bihar ,Beauty,3,25,75,Oct 2023,Under 30
+351,25-09-2023,CUST351,Female,56, Arunachal Pradesh ,Clothing,3,30,90,Sep 2023,45-59
+352,11-06-2023,CUST352,Male,57, Rajasthan ,Electronics,2,500,1000,Jun 2023,45-59
+353,14-05-2023,CUST353,Male,31, Nagaland ,Electronics,1,500,500,May 2023,30-44
+354,15-04-2023,CUST354,Female,49, Uttarakhand ,Beauty,4,50,200,Apr 2023,45-59
+355,09-12-2023,CUST355,Female,55, Andhra Pradesh ,Electronics,1,500,500,Dec 2023,45-59
+356,10-06-2023,CUST356,Male,50, Assam ,Electronics,3,500,1500,Jun 2023,45-59
+357,03-05-2023,CUST357,Female,40, Tripura ,Electronics,3,25,75,May 2023,30-44
+358,16-05-2023,CUST358,Female,32, West Bengal ,Beauty,1,300,300,May 2023,30-44
+359,22-07-2023,CUST359,Male,50, Haryana ,Clothing,1,50,50,Jul 2023,45-59
+360,09-03-2023,CUST360,Male,42, Goa ,Clothing,4,25,100,Mar 2023,30-44
+361,10-12-2023,CUST361,Female,34, Maharashtra ,Electronics,4,300,1200,Dec 2023,30-44
+362,27-11-2023,CUST362,Male,50, Meghalaya ,Clothing,1,25,25,Nov 2023,45-59
+363,03-06-2023,CUST363,Male,64, Meghalaya ,Beauty,1,25,25,Jun 2023,60+
+364,23-08-2023,CUST364,Female,19, Gujarat ,Beauty,1,500,500,Aug 2023,Under 30
+365,11-06-2023,CUST365,Male,31, West Bengal ,Clothing,1,300,300,Jun 2023,30-44
+366,07-02-2023,CUST366,Male,57, Madhya Pradesh ,Clothing,2,50,100,Feb 2023,45-59
+367,05-01-2023,CUST367,Female,57, Arunachal Pradesh ,Electronics,1,50,50,Jan 2023,45-59
+368,23-08-2023,CUST368,Female,56, Goa ,Clothing,4,300,1200,Aug 2023,45-59
+369,15-11-2023,CUST369,Male,23, Madhya Pradesh ,Electronics,3,500,1500,Nov 2023,Under 30
+370,16-10-2023,CUST370,Male,23, Andhra Pradesh ,Electronics,2,30,60,Oct 2023,Under 30
+371,21-02-2023,CUST371,Female,20, Madhya Pradesh ,Beauty,1,25,25,Feb 2023,Under 30
+372,07-02-2023,CUST372,Female,24, Himachal Pradesh ,Beauty,3,500,1500,Feb 2023,Under 30
+373,03-10-2023,CUST373,Female,25, Uttar Pradesh ,Beauty,2,300,600,Oct 2023,Under 30
+374,20-04-2023,CUST374,Female,59, Uttar Pradesh ,Beauty,3,25,75,Apr 2023,45-59
+375,17-09-2023,CUST375,Male,32, Manipur ,Clothing,1,50,50,Sep 2023,30-44
+376,16-05-2023,CUST376,Female,64, Jharkhand ,Beauty,1,30,30,May 2023,60+
+377,09-03-2023,CUST377,Female,46, Maharashtra ,Clothing,4,50,200,Mar 2023,45-59
+378,28-06-2023,CUST378,Male,50, Tamil Nadu ,Beauty,1,300,300,Jun 2023,45-59
+379,05-02-2023,CUST379,Female,47, Telangana ,Clothing,1,25,25,Feb 2023,45-59
+380,06-05-2023,CUST380,Male,56, Uttar Pradesh ,Electronics,2,300,600,May 2023,45-59
+381,09-07-2023,CUST381,Female,44, Nagaland ,Clothing,4,25,100,Jul 2023,30-44
+382,26-05-2023,CUST382,Female,53, Sikkim ,Clothing,2,500,1000,May 2023,45-59
+383,22-03-2023,CUST383,Female,46, Tamil Nadu ,Beauty,3,30,90,Mar 2023,45-59
+384,13-08-2023,CUST384,Male,55, Meghalaya ,Clothing,1,500,500,Aug 2023,45-59
+385,06-10-2023,CUST385,Male,50, Chhattisgarh ,Electronics,3,500,1500,Oct 2023,45-59
+386,27-12-2023,CUST386,Female,54, Gujarat ,Electronics,2,300,600,Dec 2023,45-59
+387,04-06-2023,CUST387,Male,44, Jharkhand ,Beauty,1,30,30,Jun 2023,30-44
+388,10-11-2023,CUST388,Male,50, Gujarat ,Electronics,1,25,25,Nov 2023,45-59
+389,01-12-2023,CUST389,Male,21, Arunachal Pradesh ,Clothing,2,25,50,Dec 2023,Under 30
+390,28-09-2023,CUST390,Male,39, Odisha ,Electronics,2,50,100,Sep 2023,30-44
+391,05-01-2023,CUST391,Male,19, Telangana ,Beauty,2,25,50,Jan 2023,Under 30
+392,08-12-2023,CUST392,Male,27, Nagaland ,Clothing,2,300,600,Dec 2023,Under 30
+393,11-10-2023,CUST393,Female,22, Arunachal Pradesh ,Beauty,2,500,1000,Oct 2023,Under 30
+394,03-06-2023,CUST394,Female,27, Telangana ,Clothing,1,500,500,Jun 2023,Under 30
+395,06-12-2023,CUST395,Male,50, Karnataka ,Electronics,2,500,1000,Dec 2023,45-59
+396,23-02-2023,CUST396,Female,55, Arunachal Pradesh ,Beauty,1,30,30,Feb 2023,45-59
+397,10-03-2023,CUST397,Female,30, Arunachal Pradesh ,Beauty,1,25,25,Mar 2023,30-44
+398,16-05-2023,CUST398,Female,48, Odisha ,Clothing,2,300,600,May 2023,45-59
+399,01-03-2023,CUST399,Female,64, Meghalaya ,Beauty,2,30,60,Mar 2023,60+
+400,24-02-2023,CUST400,Male,53, Mizoram ,Clothing,4,50,200,Feb 2023,45-59
+401,11-10-2023,CUST401,Female,62, West Bengal ,Clothing,1,300,300,Oct 2023,60+
+402,21-03-2023,CUST402,Female,41, Mizoram ,Clothing,2,300,600,Mar 2023,30-44
+403,20-05-2023,CUST403,Male,32, Goa ,Clothing,2,300,600,May 2023,30-44
+404,25-05-2023,CUST404,Male,46, Arunachal Pradesh ,Electronics,2,500,1000,May 2023,45-59
+405,06-11-2023,CUST405,Female,25, Mizoram ,Clothing,4,300,1200,Nov 2023,Under 30
+406,18-04-2023,CUST406,Female,22, Assam ,Beauty,4,25,100,Apr 2023,Under 30
+407,25-06-2023,CUST407,Female,46, West Bengal ,Electronics,3,300,900,Jun 2023,45-59
+408,15-04-2023,CUST408,Female,64, Goa ,Beauty,1,500,500,Apr 2023,60+
+409,18-12-2023,CUST409,Female,21, Assam ,Electronics,3,300,900,Dec 2023,Under 30
+410,21-11-2023,CUST410,Female,29, Punjab ,Clothing,2,50,100,Nov 2023,Under 30
+411,16-05-2023,CUST411,Male,62, Assam ,Electronics,4,50,200,May 2023,60+
+412,16-09-2023,CUST412,Female,19, Sikkim ,Electronics,4,500,2000,Sep 2023,Under 30
+413,08-09-2023,CUST413,Female,44, West Bengal ,Beauty,3,25,75,Sep 2023,30-44
+414,09-05-2023,CUST414,Male,48, Haryana ,Beauty,4,25,100,May 2023,45-59
+415,27-01-2023,CUST415,Male,53, Madhya Pradesh ,Clothing,2,30,60,Jan 2023,45-59
+416,17-02-2023,CUST416,Male,53, Bihar ,Electronics,4,500,2000,Feb 2023,45-59
+417,21-11-2023,CUST417,Male,43, Odisha ,Electronics,3,300,900,Nov 2023,30-44
+418,05-08-2023,CUST418,Female,60, Haryana ,Electronics,2,500,1000,Aug 2023,60+
+419,22-05-2023,CUST419,Female,44, Odisha ,Clothing,3,30,90,May 2023,30-44
+420,23-01-2023,CUST420,Female,22, Punjab ,Clothing,4,500,2000,Jan 2023,Under 30
+421,02-01-2023,CUST421,Female,37, Arunachal Pradesh ,Clothing,3,500,1500,Jan 2023,30-44
+422,20-06-2023,CUST422,Female,28, Punjab ,Clothing,3,30,90,Jun 2023,Under 30
+423,08-03-2023,CUST423,Female,27, Assam ,Clothing,1,25,25,Mar 2023,Under 30
+424,23-11-2023,CUST424,Male,57, Maharashtra ,Beauty,4,300,1200,Nov 2023,45-59
+425,15-05-2023,CUST425,Female,55, Sikkim ,Electronics,4,30,120,May 2023,45-59
+426,24-03-2023,CUST426,Male,23, Odisha ,Electronics,3,50,150,Mar 2023,Under 30
+427,15-08-2023,CUST427,Male,25, Odisha ,Electronics,1,25,25,Aug 2023,Under 30
+428,10-10-2023,CUST428,Female,40, Mizoram ,Electronics,4,50,200,Oct 2023,30-44
+429,28-12-2023,CUST429,Male,64, Karnataka ,Electronics,2,25,50,Dec 2023,60+
+430,07-08-2023,CUST430,Female,43, Himachal Pradesh ,Electronics,3,300,900,Aug 2023,30-44
+431,15-10-2023,CUST431,Male,63, Gujarat ,Electronics,4,300,1200,Oct 2023,60+
+432,05-01-2023,CUST432,Female,60, Sikkim ,Electronics,2,500,1000,Jan 2023,60+
+433,27-02-2023,CUST433,Male,29, Tamil Nadu ,Beauty,4,50,200,Feb 2023,Under 30
+434,08-02-2023,CUST434,Female,43, Karnataka ,Electronics,2,25,50,Feb 2023,30-44
+435,20-12-2023,CUST435,Female,30, Haryana ,Beauty,3,300,900,Dec 2023,30-44
+436,18-03-2023,CUST436,Female,57, Himachal Pradesh ,Clothing,4,30,120,Mar 2023,45-59
+437,07-10-2023,CUST437,Female,35, Madhya Pradesh ,Electronics,4,300,1200,Oct 2023,30-44
+438,19-01-2023,CUST438,Female,42, Chhattisgarh ,Clothing,1,30,30,Jan 2023,30-44
+439,09-07-2023,CUST439,Male,50, Sikkim ,Clothing,3,25,75,Jul 2023,45-59
+440,26-10-2023,CUST440,Male,64, Rajasthan ,Clothing,2,300,600,Oct 2023,60+
+441,10-10-2023,CUST441,Male,57, Jharkhand ,Beauty,4,300,1200,Oct 2023,45-59
+442,17-03-2023,CUST442,Female,60, Manipur ,Clothing,4,25,100,Mar 2023,60+
+443,09-08-2023,CUST443,Male,29, Karnataka ,Clothing,2,300,600,Aug 2023,Under 30
+444,07-03-2023,CUST444,Female,61, Tripura ,Clothing,3,30,90,Mar 2023,60+
+445,22-01-2023,CUST445,Female,53, Assam ,Electronics,1,300,300,Jan 2023,45-59
+446,07-06-2023,CUST446,Male,21, Andhra Pradesh ,Electronics,1,50,50,Jun 2023,Under 30
+447,06-07-2023,CUST447,Male,22, Manipur ,Beauty,4,500,2000,Jul 2023,Under 30
+448,21-01-2023,CUST448,Female,54, Punjab ,Beauty,2,30,60,Jan 2023,45-59
+449,03-07-2023,CUST449,Male,25, Odisha ,Electronics,4,50,200,Jul 2023,Under 30
+450,18-04-2023,CUST450,Female,59, Bihar ,Beauty,2,25,50,Apr 2023,45-59
+451,16-12-2023,CUST451,Female,45, Assam ,Electronics,1,30,30,Dec 2023,45-59
+452,08-05-2023,CUST452,Female,48, Nagaland ,Clothing,3,500,1500,May 2023,45-59
+453,08-12-2023,CUST453,Female,26, Gujarat ,Clothing,2,500,1000,Dec 2023,Under 30
+454,22-02-2023,CUST454,Female,46, Mizoram ,Beauty,1,25,25,Feb 2023,45-59
+455,01-07-2023,CUST455,Male,31, Himachal Pradesh ,Electronics,4,25,100,Jul 2023,30-44
+456,14-10-2023,CUST456,Male,57, Chhattisgarh ,Electronics,2,30,60,Oct 2023,45-59
+457,28-07-2023,CUST457,Female,58, Kerala ,Beauty,3,300,900,Jul 2023,45-59
+458,14-11-2023,CUST458,Female,39, Assam ,Electronics,4,25,100,Nov 2023,30-44
+459,21-03-2023,CUST459,Male,28, Haryana ,Clothing,4,300,1200,Mar 2023,Under 30
+460,02-05-2023,CUST460,Male,40, Kerala ,Beauty,1,50,50,May 2023,30-44
+461,25-03-2023,CUST461,Female,18, Jharkhand ,Beauty,2,500,1000,Mar 2023,Under 30
+462,01-04-2023,CUST462,Male,63, Goa ,Electronics,4,300,1200,Apr 2023,60+
+463,31-07-2023,CUST463,Female,54, Manipur ,Beauty,3,500,1500,Jul 2023,45-59
+464,13-01-2023,CUST464,Male,38, Uttarakhand ,Electronics,2,300,600,Jan 2023,30-44
+465,02-04-2023,CUST465,Female,43, Nagaland ,Electronics,3,50,150,Apr 2023,30-44
+466,20-06-2023,CUST466,Male,63, Tamil Nadu ,Electronics,4,25,100,Jun 2023,60+
+467,30-07-2023,CUST467,Female,53, Jharkhand ,Electronics,3,50,150,Jul 2023,45-59
+468,09-12-2023,CUST468,Male,40, Punjab ,Electronics,1,25,25,Dec 2023,30-44
+469,08-05-2023,CUST469,Male,18, Uttar Pradesh ,Beauty,3,25,75,May 2023,Under 30
+470,17-05-2023,CUST470,Female,57, Rajasthan ,Clothing,2,500,1000,May 2023,45-59
+471,23-03-2023,CUST471,Male,32, Mizoram ,Clothing,3,50,150,Mar 2023,30-44
+472,26-12-2023,CUST472,Female,38, Andhra Pradesh ,Beauty,3,300,900,Dec 2023,30-44
+473,25-02-2023,CUST473,Male,64, Sikkim ,Beauty,1,50,50,Feb 2023,60+
+474,15-07-2023,CUST474,Female,26, Uttarakhand ,Clothing,3,500,1500,Jul 2023,Under 30
+475,20-01-2023,CUST475,Male,26, Nagaland ,Clothing,3,25,75,Jan 2023,Under 30
+476,29-08-2023,CUST476,Female,27, Jharkhand ,Clothing,4,500,2000,Aug 2023,Under 30
+477,24-04-2023,CUST477,Male,43, Sikkim ,Clothing,4,30,120,Apr 2023,30-44
+478,13-04-2023,CUST478,Female,58, Bihar ,Clothing,2,30,60,Apr 2023,45-59
+479,24-08-2023,CUST479,Male,52, Chhattisgarh ,Electronics,4,300,1200,Aug 2023,45-59
+480,29-06-2023,CUST480,Female,42, Himachal Pradesh ,Beauty,4,500,2000,Jun 2023,30-44
+481,06-06-2023,CUST481,Female,43, Bihar ,Electronics,4,300,1200,Jun 2023,30-44
+482,27-04-2023,CUST482,Female,28, Bihar ,Clothing,4,300,1200,Apr 2023,Under 30
+483,25-04-2023,CUST483,Male,55, Telangana ,Clothing,1,30,30,Apr 2023,45-59
+484,13-01-2023,CUST484,Female,19, Nagaland ,Clothing,4,300,1200,Jan 2023,Under 30
+485,04-12-2023,CUST485,Male,24, Chhattisgarh ,Electronics,1,30,30,Dec 2023,Under 30
+486,09-04-2023,CUST486,Female,35, Himachal Pradesh ,Electronics,1,25,25,Apr 2023,30-44
+487,24-07-2023,CUST487,Male,44, Jharkhand ,Clothing,4,500,2000,Jul 2023,30-44
+488,18-06-2023,CUST488,Female,51, Punjab ,Electronics,3,300,900,Jun 2023,45-59
+489,23-05-2023,CUST489,Male,44, Gujarat ,Electronics,1,30,30,May 2023,30-44
+490,05-02-2023,CUST490,Male,34, Tamil Nadu ,Clothing,3,50,150,Feb 2023,30-44
+491,23-05-2023,CUST491,Female,60, Karnataka ,Electronics,3,300,900,May 2023,60+
+492,29-06-2023,CUST492,Male,61, Gujarat ,Beauty,4,25,100,Jun 2023,60+
+493,25-11-2023,CUST493,Male,41, Sikkim ,Beauty,2,25,50,Nov 2023,30-44
+494,18-09-2023,CUST494,Female,42, Rajasthan ,Beauty,4,50,200,Sep 2023,30-44
+495,24-07-2023,CUST495,Male,24, West Bengal ,Beauty,2,30,60,Jul 2023,Under 30
+496,14-12-2023,CUST496,Male,23, Himachal Pradesh ,Clothing,2,300,600,Dec 2023,Under 30
+497,02-10-2023,CUST497,Male,41, Mizoram ,Clothing,4,30,120,Oct 2023,30-44
+498,19-06-2023,CUST498,Female,50, Meghalaya ,Clothing,4,25,100,Jun 2023,45-59
+499,15-01-2023,CUST499,Male,46, Himachal Pradesh ,Beauty,2,30,60,Jan 2023,45-59
+500,01-03-2023,CUST500,Female,60, West Bengal ,Beauty,4,25,100,Mar 2023,60+
+501,14-05-2023,CUST501,Male,39, Arunachal Pradesh ,Electronics,2,30,60,May 2023,30-44
+502,02-04-2023,CUST502,Male,43, Assam ,Electronics,3,50,150,Apr 2023,30-44
+503,25-10-2023,CUST503,Male,45, Rajasthan ,Beauty,4,500,2000,Oct 2023,45-59
+504,16-05-2023,CUST504,Female,38, Maharashtra ,Beauty,3,50,150,May 2023,30-44
+505,20-01-2023,CUST505,Male,24, Uttarakhand ,Beauty,1,50,50,Jan 2023,Under 30
+506,25-02-2023,CUST506,Male,34, Himachal Pradesh ,Beauty,3,500,1500,Feb 2023,30-44
+507,02-11-2023,CUST507,Female,37, Arunachal Pradesh ,Electronics,3,500,1500,Nov 2023,30-44
+508,11-08-2023,CUST508,Male,58, Andhra Pradesh ,Beauty,2,300,600,Aug 2023,45-59
+509,26-06-2023,CUST509,Female,37, Karnataka ,Electronics,3,300,900,Jun 2023,30-44
+510,10-06-2023,CUST510,Female,39, Tripura ,Beauty,4,50,200,Jun 2023,30-44
+511,12-08-2023,CUST511,Male,45, Chhattisgarh ,Beauty,2,50,100,Aug 2023,45-59
+512,07-11-2023,CUST512,Female,57, Rajasthan ,Beauty,1,25,25,Nov 2023,45-59
+513,19-09-2023,CUST513,Male,24, Himachal Pradesh ,Electronics,4,25,100,Sep 2023,Under 30
+514,01-03-2023,CUST514,Female,18, Goa ,Electronics,1,300,300,Mar 2023,Under 30
+515,17-07-2023,CUST515,Female,49, Telangana ,Clothing,3,300,900,Jul 2023,45-59
+516,23-10-2023,CUST516,Male,30, Manipur ,Beauty,4,25,100,Oct 2023,30-44
+517,08-04-2023,CUST517,Female,47, Nagaland ,Clothing,4,25,100,Apr 2023,45-59
+518,11-05-2023,CUST518,Female,40, Tamil Nadu ,Clothing,1,30,30,May 2023,30-44
+519,23-01-2023,CUST519,Female,36, Maharashtra ,Electronics,4,30,120,Jan 2023,30-44
+520,29-12-2023,CUST520,Female,49, Nagaland ,Electronics,4,25,100,Dec 2023,45-59
+521,12-08-2023,CUST521,Female,47, Andhra Pradesh ,Clothing,4,30,120,Aug 2023,45-59
+522,01-01-2023,CUST522,Male,46, Bihar ,Beauty,3,500,1500,Jan 2023,45-59
+523,24-09-2023,CUST523,Female,62, Assam ,Electronics,1,300,300,Sep 2023,60+
+524,03-10-2023,CUST524,Male,46, Tamil Nadu ,Beauty,4,300,1200,Oct 2023,45-59
+525,18-12-2023,CUST525,Female,47, Chhattisgarh ,Beauty,2,25,50,Dec 2023,45-59
+526,10-12-2023,CUST526,Male,33, Nagaland ,Clothing,2,50,100,Dec 2023,30-44
+527,11-04-2023,CUST527,Male,57, Arunachal Pradesh ,Clothing,2,25,50,Apr 2023,45-59
+528,06-07-2023,CUST528,Female,36, Uttarakhand ,Clothing,2,30,60,Jul 2023,30-44
+529,09-08-2023,CUST529,Female,35, Kerala ,Clothing,3,50,150,Aug 2023,30-44
+530,05-02-2023,CUST530,Female,18, Odisha ,Electronics,4,30,120,Feb 2023,Under 30
+531,07-12-2023,CUST531,Male,31, Nagaland ,Electronics,1,500,500,Dec 2023,30-44
+532,19-06-2023,CUST532,Female,64, Chhattisgarh ,Clothing,4,30,120,Jun 2023,60+
+533,16-11-2023,CUST533,Male,19, Maharashtra ,Electronics,3,500,1500,Nov 2023,Under 30
+534,10-06-2023,CUST534,Male,45, Chhattisgarh ,Clothing,2,500,1000,Jun 2023,45-59
+535,06-12-2023,CUST535,Male,47, Arunachal Pradesh ,Beauty,3,30,90,Dec 2023,45-59
+536,05-03-2023,CUST536,Female,55, Jharkhand ,Beauty,4,30,120,Mar 2023,45-59
+537,03-06-2023,CUST537,Female,21, Kerala ,Beauty,1,500,500,Jun 2023,Under 30
+538,17-09-2023,CUST538,Male,18, Uttar Pradesh ,Clothing,3,50,150,Sep 2023,Under 30
+539,08-06-2023,CUST539,Male,25, West Bengal ,Beauty,1,500,500,Jun 2023,Under 30
+540,08-12-2023,CUST540,Female,46, Arunachal Pradesh ,Electronics,3,300,900,Dec 2023,45-59
+541,29-07-2023,CUST541,Male,56, Kerala ,Beauty,1,500,500,Jul 2023,45-59
+542,17-06-2023,CUST542,Female,20, Gujarat ,Beauty,1,50,50,Jun 2023,Under 30
+543,26-07-2023,CUST543,Male,49, Sikkim ,Beauty,2,300,600,Jul 2023,45-59
+544,23-12-2023,CUST544,Female,27, Haryana ,Electronics,1,25,25,Dec 2023,Under 30
+545,01-06-2023,CUST545,Male,27, Sikkim ,Clothing,2,25,50,Jun 2023,Under 30
+546,11-10-2023,CUST546,Female,36, Bihar ,Electronics,4,50,200,Oct 2023,30-44
+547,07-03-2023,CUST547,Male,63, Kerala ,Clothing,4,500,2000,Mar 2023,60+
+548,09-04-2023,CUST548,Female,51, Tripura ,Clothing,2,30,60,Apr 2023,45-59
+549,04-08-2023,CUST549,Female,50, Nagaland ,Beauty,2,50,100,Aug 2023,45-59
+550,07-12-2023,CUST550,Male,40, West Bengal ,Clothing,3,300,900,Dec 2023,30-44
+551,14-07-2023,CUST551,Male,45, Maharashtra ,Electronics,3,300,900,Jul 2023,45-59
+552,13-12-2023,CUST552,Female,49, Punjab ,Electronics,3,25,75,Dec 2023,45-59
+553,31-03-2023,CUST553,Male,24, Telangana ,Clothing,4,300,1200,Mar 2023,Under 30
+554,12-11-2023,CUST554,Female,46, Chhattisgarh ,Beauty,3,50,150,Nov 2023,45-59
+555,19-10-2023,CUST555,Male,25, Haryana ,Beauty,1,300,300,Oct 2023,Under 30
+556,04-06-2023,CUST556,Female,18, West Bengal ,Electronics,1,50,50,Jun 2023,Under 30
+557,27-07-2023,CUST557,Female,20, Goa ,Beauty,3,30,90,Jul 2023,Under 30
+558,08-10-2023,CUST558,Female,41, Uttar Pradesh ,Clothing,1,25,25,Oct 2023,30-44
+559,01-01-2023,CUST559,Female,40, Uttar Pradesh ,Clothing,4,300,1200,Jan 2023,30-44
+560,05-06-2023,CUST560,Female,25, Goa ,Electronics,1,50,50,Jun 2023,Under 30
+561,27-05-2023,CUST561,Female,64, Maharashtra ,Clothing,4,500,2000,May 2023,60+
+562,18-04-2023,CUST562,Male,54, Andhra Pradesh ,Electronics,2,25,50,Apr 2023,45-59
+563,09-08-2023,CUST563,Male,20, Goa ,Clothing,2,30,60,Aug 2023,Under 30
+564,24-10-2023,CUST564,Male,50, Telangana ,Electronics,2,50,100,Oct 2023,45-59
+565,07-11-2023,CUST565,Female,45, Karnataka ,Beauty,2,30,60,Nov 2023,45-59
+566,02-12-2023,CUST566,Female,64, Uttar Pradesh ,Clothing,1,30,30,Dec 2023,60+
+567,14-06-2023,CUST567,Female,25, Maharashtra ,Clothing,3,300,900,Jun 2023,Under 30
+568,27-08-2023,CUST568,Female,51, Uttar Pradesh ,Electronics,1,300,300,Aug 2023,45-59
+569,15-08-2023,CUST569,Male,52, Sikkim ,Electronics,4,50,200,Aug 2023,45-59
+570,15-08-2023,CUST570,Male,49, West Bengal ,Clothing,1,500,500,Aug 2023,45-59
+571,12-12-2023,CUST571,Female,41, Telangana ,Electronics,1,50,50,Dec 2023,30-44
+572,20-04-2023,CUST572,Male,31, Uttar Pradesh ,Clothing,4,500,2000,Apr 2023,30-44
+573,19-09-2023,CUST573,Male,49, Haryana ,Beauty,2,30,60,Sep 2023,45-59
+574,31-08-2023,CUST574,Female,63, Himachal Pradesh ,Electronics,2,25,50,Aug 2023,60+
+575,28-03-2023,CUST575,Male,60, Goa ,Clothing,2,50,100,Mar 2023,60+
+576,04-12-2023,CUST576,Female,33, Uttar Pradesh ,Beauty,3,50,150,Dec 2023,30-44
+577,13-02-2023,CUST577,Male,21, Tamil Nadu ,Beauty,4,500,2000,Feb 2023,Under 30
+578,26-05-2023,CUST578,Female,54, Bihar ,Clothing,4,30,120,May 2023,45-59
+579,21-09-2023,CUST579,Female,38, Madhya Pradesh ,Electronics,1,30,30,Sep 2023,30-44
+580,06-12-2023,CUST580,Female,31, West Bengal ,Clothing,3,500,1500,Dec 2023,30-44
+581,21-11-2023,CUST581,Female,48, Arunachal Pradesh ,Beauty,2,30,60,Nov 2023,45-59
+582,14-11-2023,CUST582,Male,35, West Bengal ,Clothing,3,300,900,Nov 2023,30-44
+583,21-06-2023,CUST583,Female,24, Meghalaya ,Electronics,4,25,100,Jun 2023,Under 30
+584,17-02-2023,CUST584,Female,27, Haryana ,Beauty,4,50,200,Feb 2023,Under 30
+585,01-05-2023,CUST585,Female,24, Gujarat ,Clothing,1,25,25,May 2023,Under 30
+586,11-12-2023,CUST586,Male,50, Uttarakhand ,Electronics,1,50,50,Dec 2023,45-59
+587,08-06-2023,CUST587,Female,40, Manipur ,Beauty,4,300,1200,Jun 2023,30-44
+588,26-04-2023,CUST588,Male,38, Kerala ,Electronics,2,30,60,Apr 2023,30-44
+589,12-04-2023,CUST589,Female,36, Jharkhand ,Beauty,2,500,1000,Apr 2023,30-44
+590,17-03-2023,CUST590,Male,36, Uttarakhand ,Clothing,3,300,900,Mar 2023,30-44
+591,13-01-2023,CUST591,Male,53, Uttar Pradesh ,Electronics,4,25,100,Jan 2023,45-59
+592,24-01-2023,CUST592,Female,46, West Bengal ,Beauty,4,500,2000,Jan 2023,45-59
+593,06-05-2023,CUST593,Male,35, Haryana ,Electronics,2,30,60,May 2023,30-44
+594,01-09-2023,CUST594,Female,19, Haryana ,Electronics,2,300,600,Sep 2023,Under 30
+595,09-11-2023,CUST595,Female,18, Andhra Pradesh ,Clothing,4,500,2000,Nov 2023,Under 30
+596,07-02-2023,CUST596,Female,64, Sikkim ,Electronics,1,300,300,Feb 2023,60+
+597,22-08-2023,CUST597,Male,22, Gujarat ,Beauty,4,300,1200,Aug 2023,Under 30
+598,01-08-2023,CUST598,Male,37, Madhya Pradesh ,Beauty,4,30,120,Aug 2023,30-44
+599,19-11-2023,CUST599,Female,28, Karnataka ,Beauty,2,50,100,Nov 2023,Under 30
+600,22-10-2023,CUST600,Female,59, Himachal Pradesh ,Beauty,2,500,1000,Oct 2023,45-59
+601,10-04-2023,CUST601,Male,19, West Bengal ,Clothing,1,30,30,Apr 2023,Under 30
+602,23-12-2023,CUST602,Female,20, Assam ,Electronics,1,300,300,Dec 2023,Under 30
+603,16-07-2023,CUST603,Female,40, Tripura ,Clothing,3,30,90,Jul 2023,30-44
+604,11-09-2023,CUST604,Female,29, Himachal Pradesh ,Electronics,4,50,200,Sep 2023,Under 30
+605,24-07-2023,CUST605,Male,37, Kerala ,Electronics,2,500,1000,Jul 2023,30-44
+606,05-05-2023,CUST606,Male,22, Rajasthan ,Electronics,1,50,50,May 2023,Under 30
+607,17-03-2023,CUST607,Male,54, Mizoram ,Clothing,3,25,75,Mar 2023,45-59
+608,02-12-2023,CUST608,Female,55, Madhya Pradesh ,Electronics,3,500,1500,Dec 2023,45-59
+609,19-12-2023,CUST609,Female,47, Sikkim ,Clothing,2,50,100,Dec 2023,45-59
+610,03-01-2023,CUST610,Female,26, Uttarakhand ,Beauty,2,300,600,Jan 2023,Under 30
+611,24-02-2023,CUST611,Male,51, Nagaland ,Beauty,3,500,1500,Feb 2023,45-59
+612,06-08-2023,CUST612,Female,61, Karnataka ,Electronics,1,500,500,Aug 2023,60+
+613,23-04-2023,CUST613,Female,52, Andhra Pradesh ,Clothing,3,30,90,Apr 2023,45-59
+614,01-04-2023,CUST614,Female,39, Bihar ,Beauty,4,300,1200,Apr 2023,30-44
+615,23-12-2023,CUST615,Female,61, Himachal Pradesh ,Clothing,4,25,100,Dec 2023,60+
+616,23-09-2023,CUST616,Male,41, Goa ,Clothing,2,50,100,Sep 2023,30-44
+617,26-08-2023,CUST617,Male,34, Odisha ,Electronics,1,30,30,Aug 2023,30-44
+618,26-01-2023,CUST618,Female,27, Himachal Pradesh ,Beauty,1,50,50,Jan 2023,Under 30
+619,13-10-2023,CUST619,Male,47, Arunachal Pradesh ,Electronics,4,25,100,Oct 2023,45-59
+620,08-05-2023,CUST620,Male,63, Bihar ,Electronics,3,25,75,May 2023,60+
+621,04-03-2023,CUST621,Female,40, Punjab ,Beauty,2,500,1000,Mar 2023,30-44
+622,22-08-2023,CUST622,Female,49, Maharashtra ,Beauty,3,25,75,Aug 2023,45-59
+623,10-03-2023,CUST623,Male,34, Kerala ,Clothing,3,50,150,Mar 2023,30-44
+624,26-08-2023,CUST624,Female,34, Telangana ,Beauty,3,300,900,Aug 2023,30-44
+625,08-12-2023,CUST625,Male,31, Uttar Pradesh ,Clothing,1,300,300,Dec 2023,30-44
+626,29-09-2023,CUST626,Female,26, Karnataka ,Clothing,4,500,2000,Sep 2023,Under 30
+627,14-10-2023,CUST627,Male,57, Maharashtra ,Clothing,1,50,50,Oct 2023,45-59
+628,01-11-2023,CUST628,Female,19, Punjab ,Beauty,4,50,200,Nov 2023,Under 30
+629,12-06-2023,CUST629,Male,62, Mizoram ,Electronics,2,25,50,Jun 2023,60+
+630,15-08-2023,CUST630,Male,42, Bihar ,Clothing,2,50,100,Aug 2023,30-44
+631,10-11-2023,CUST631,Male,56, Madhya Pradesh ,Electronics,3,30,90,Nov 2023,45-59
+632,16-09-2023,CUST632,Female,26, Odisha ,Electronics,4,25,100,Sep 2023,Under 30
+633,07-08-2023,CUST633,Male,39, Gujarat ,Beauty,4,30,120,Aug 2023,30-44
+634,08-10-2023,CUST634,Male,60, Himachal Pradesh ,Electronics,4,500,2000,Oct 2023,60+
+635,17-08-2023,CUST635,Female,63, Arunachal Pradesh ,Electronics,3,300,900,Aug 2023,60+
+636,23-03-2023,CUST636,Female,21, Tamil Nadu ,Beauty,3,500,1500,Mar 2023,Under 30
+637,01-09-2023,CUST637,Male,43, Maharashtra ,Clothing,2,300,600,Sep 2023,30-44
+638,19-08-2023,CUST638,Male,46, Andhra Pradesh ,Electronics,1,500,500,Aug 2023,45-59
+639,13-05-2023,CUST639,Female,62, Mizoram ,Beauty,4,50,200,May 2023,60+
+640,07-05-2023,CUST640,Female,51, Uttar Pradesh ,Electronics,4,30,120,May 2023,45-59
+641,23-11-2023,CUST641,Female,40, Nagaland ,Electronics,1,300,300,Nov 2023,30-44
+642,22-05-2023,CUST642,Female,54, Sikkim ,Clothing,4,25,100,May 2023,45-59
+643,24-09-2023,CUST643,Female,28, Telangana ,Electronics,3,30,90,Sep 2023,Under 30
+644,06-09-2023,CUST644,Male,23, Telangana ,Beauty,3,25,75,Sep 2023,Under 30
+645,17-11-2023,CUST645,Female,35, Telangana ,Electronics,4,30,120,Nov 2023,30-44
+646,03-05-2023,CUST646,Male,38, Sikkim ,Clothing,3,30,90,May 2023,30-44
+647,21-05-2023,CUST647,Male,59, Gujarat ,Clothing,3,500,1500,May 2023,45-59
+648,14-08-2023,CUST648,Male,53, Kerala ,Beauty,4,300,1200,Aug 2023,45-59
+649,09-02-2023,CUST649,Female,58, Maharashtra ,Clothing,2,300,600,Feb 2023,45-59
+650,01-01-2024,CUST650,Male,55, Assam ,Electronics,1,30,30,Jan 2024,45-59
+651,27-05-2023,CUST651,Male,51, Sikkim ,Clothing,3,50,150,May 2023,45-59
+652,01-05-2023,CUST652,Female,34, Karnataka ,Beauty,2,50,100,May 2023,30-44
+653,20-05-2023,CUST653,Male,54, Punjab ,Clothing,3,25,75,May 2023,45-59
+654,21-06-2023,CUST654,Male,42, Karnataka ,Clothing,3,25,75,Jun 2023,30-44
+655,13-06-2023,CUST655,Female,55, Sikkim ,Clothing,1,500,500,Jun 2023,45-59
+656,04-10-2023,CUST656,Male,29, West Bengal ,Beauty,3,30,90,Oct 2023,Under 30
+657,11-02-2023,CUST657,Male,40, Bihar ,Clothing,1,25,25,Feb 2023,30-44
+658,12-03-2023,CUST658,Male,59, Telangana ,Clothing,1,25,25,Mar 2023,45-59
+659,19-03-2023,CUST659,Female,39, Jharkhand ,Electronics,1,30,30,Mar 2023,30-44
+660,29-04-2023,CUST660,Female,38, Mizoram ,Beauty,2,500,1000,Apr 2023,30-44
+661,16-07-2023,CUST661,Female,44, Jharkhand ,Clothing,4,25,100,Jul 2023,30-44
+662,22-12-2023,CUST662,Male,48, Sikkim ,Beauty,2,500,1000,Dec 2023,45-59
+663,20-03-2023,CUST663,Male,23, Maharashtra ,Clothing,4,300,1200,Mar 2023,Under 30
+664,28-12-2023,CUST664,Female,44, Karnataka ,Clothing,4,500,2000,Dec 2023,30-44
+665,20-04-2023,CUST665,Male,57, Madhya Pradesh ,Clothing,1,50,50,Apr 2023,45-59
+666,02-02-2023,CUST666,Male,51, Tamil Nadu ,Electronics,3,50,150,Feb 2023,45-59
+667,01-08-2023,CUST667,Female,29, Jharkhand ,Electronics,1,500,500,Aug 2023,Under 30
+668,28-07-2023,CUST668,Female,62, Nagaland ,Electronics,3,50,150,Jul 2023,60+
+669,19-06-2023,CUST669,Male,24, Chhattisgarh ,Beauty,4,300,1200,Jun 2023,Under 30
+670,05-10-2023,CUST670,Male,27, Gujarat ,Beauty,1,30,30,Oct 2023,Under 30
+671,27-08-2023,CUST671,Male,62, Maharashtra ,Electronics,3,50,150,Aug 2023,60+
+672,01-08-2023,CUST672,Female,34, Sikkim ,Beauty,2,50,100,Aug 2023,30-44
+673,01-02-2023,CUST673,Female,43, Madhya Pradesh ,Clothing,3,500,1500,Feb 2023,30-44
+674,16-04-2023,CUST674,Female,38, Sikkim ,Clothing,1,300,300,Apr 2023,30-44
+675,04-08-2023,CUST675,Female,45, Telangana ,Clothing,2,30,60,Aug 2023,45-59
+676,19-07-2023,CUST676,Male,63, Goa ,Electronics,3,500,1500,Jul 2023,60+
+677,27-10-2023,CUST677,Female,19, Punjab ,Beauty,3,500,1500,Oct 2023,Under 30
+678,23-12-2023,CUST678,Female,60, Odisha ,Electronics,3,300,900,Dec 2023,60+
+679,11-01-2023,CUST679,Female,18, Jharkhand ,Beauty,3,30,90,Jan 2023,Under 30
+680,22-10-2023,CUST680,Female,53, Madhya Pradesh ,Clothing,3,300,900,Oct 2023,45-59
+681,14-07-2023,CUST681,Female,43, Nagaland ,Electronics,2,30,60,Jul 2023,30-44
+682,02-09-2023,CUST682,Male,46, Uttarakhand ,Beauty,4,300,1200,Sep 2023,45-59
+683,04-01-2023,CUST683,Male,38, Andhra Pradesh ,Beauty,2,500,1000,Jan 2023,30-44
+684,30-06-2023,CUST684,Female,28, Jharkhand ,Clothing,2,500,1000,Jun 2023,Under 30
+685,02-06-2023,CUST685,Male,57, Jharkhand ,Electronics,2,25,50,Jun 2023,45-59
+686,19-07-2023,CUST686,Female,28, Gujarat ,Electronics,4,50,200,Jul 2023,Under 30
+687,03-08-2023,CUST687,Female,53, Maharashtra ,Electronics,1,300,300,Aug 2023,45-59
+688,03-10-2023,CUST688,Male,56, Uttar Pradesh ,Clothing,4,25,100,Oct 2023,45-59
+689,07-10-2023,CUST689,Male,57, Odisha ,Electronics,2,50,100,Oct 2023,45-59
+690,05-11-2023,CUST690,Female,52, Punjab ,Clothing,3,300,900,Nov 2023,45-59
+691,23-04-2023,CUST691,Female,51, Rajasthan ,Clothing,3,30,90,Apr 2023,45-59
+692,07-09-2023,CUST692,Female,64, Karnataka ,Clothing,2,50,100,Sep 2023,60+
+693,23-04-2023,CUST693,Male,41, Manipur ,Beauty,3,500,1500,Apr 2023,30-44
+694,20-05-2023,CUST694,Female,39, Manipur ,Electronics,2,25,50,May 2023,30-44
+695,12-08-2023,CUST695,Female,22, Manipur ,Electronics,3,50,150,Aug 2023,Under 30
+696,06-09-2023,CUST696,Female,50, Sikkim ,Clothing,4,50,200,Sep 2023,45-59
+697,15-01-2023,CUST697,Male,53, Gujarat ,Clothing,1,500,500,Jan 2023,45-59
+698,19-07-2023,CUST698,Female,64, Mizoram ,Electronics,1,300,300,Jul 2023,60+
+699,22-06-2023,CUST699,Female,37, Meghalaya ,Clothing,4,30,120,Jun 2023,30-44
+700,09-12-2023,CUST700,Male,36, Uttar Pradesh ,Electronics,4,500,2000,Dec 2023,30-44
+701,14-12-2023,CUST701,Female,52, Uttar Pradesh ,Beauty,2,30,60,Dec 2023,45-59
+702,27-07-2023,CUST702,Female,60, Telangana ,Clothing,2,300,600,Jul 2023,60+
+703,26-03-2023,CUST703,Male,34, Goa ,Electronics,2,50,100,Mar 2023,30-44
+704,28-08-2023,CUST704,Female,62, Sikkim ,Clothing,3,30,90,Aug 2023,60+
+705,07-03-2023,CUST705,Male,60, Assam ,Electronics,2,25,50,Mar 2023,60+
+706,15-11-2023,CUST706,Male,51, Jharkhand ,Electronics,4,25,100,Nov 2023,45-59
+707,01-10-2023,CUST707,Female,26, Mizoram ,Clothing,1,500,500,Oct 2023,Under 30
+708,14-01-2023,CUST708,Female,43, Sikkim ,Beauty,3,300,900,Jan 2023,30-44
+709,21-07-2023,CUST709,Female,19, Rajasthan ,Electronics,2,500,1000,Jul 2023,Under 30
+710,31-10-2023,CUST710,Female,26, Punjab ,Electronics,3,500,1500,Oct 2023,Under 30
+711,16-10-2023,CUST711,Male,26, Karnataka ,Electronics,3,500,1500,Oct 2023,Under 30
+712,06-12-2023,CUST712,Female,57, Assam ,Beauty,2,25,50,Dec 2023,45-59
+713,14-01-2023,CUST713,Male,34, Uttarakhand ,Beauty,3,25,75,Jan 2023,30-44
+714,12-02-2023,CUST714,Female,18, Tripura ,Clothing,1,500,500,Feb 2023,Under 30
+715,26-11-2023,CUST715,Female,42, Haryana ,Beauty,4,25,100,Nov 2023,30-44
+716,08-08-2023,CUST716,Female,60, Sikkim ,Clothing,4,300,1200,Aug 2023,60+
+717,11-03-2023,CUST717,Male,57, Jharkhand ,Clothing,1,500,500,Mar 2023,45-59
+718,25-08-2023,CUST718,Female,59, Haryana ,Beauty,3,25,75,Aug 2023,45-59
+719,04-04-2023,CUST719,Female,42, Uttar Pradesh ,Clothing,2,30,60,Apr 2023,30-44
+720,26-01-2023,CUST720,Female,56, Gujarat ,Beauty,3,500,1500,Jan 2023,45-59
+721,14-05-2023,CUST721,Female,52, Chhattisgarh ,Clothing,1,500,500,May 2023,45-59
+722,14-07-2023,CUST722,Male,20, Andhra Pradesh ,Beauty,3,300,900,Jul 2023,Under 30
+723,17-06-2023,CUST723,Female,54, Arunachal Pradesh ,Beauty,4,50,200,Jun 2023,45-59
+724,19-04-2023,CUST724,Male,61, Haryana ,Clothing,3,50,150,Apr 2023,60+
+725,21-08-2023,CUST725,Male,61, Meghalaya ,Electronics,1,300,300,Aug 2023,60+
+726,17-06-2023,CUST726,Male,47, Punjab ,Clothing,4,300,1200,Jun 2023,45-59
+727,22-06-2023,CUST727,Male,55, West Bengal ,Beauty,3,300,900,Jun 2023,45-59
+728,14-07-2023,CUST728,Male,51, Tripura ,Electronics,3,50,150,Jul 2023,45-59
+729,23-05-2023,CUST729,Male,29, Assam ,Clothing,4,300,1200,May 2023,Under 30
+730,04-08-2023,CUST730,Female,36, Manipur ,Clothing,2,25,50,Aug 2023,30-44
+731,10-05-2023,CUST731,Male,54, Maharashtra ,Clothing,4,500,2000,May 2023,45-59
+732,11-02-2023,CUST732,Male,61, Rajasthan ,Electronics,2,500,1000,Feb 2023,60+
+733,29-08-2023,CUST733,Male,34, Odisha ,Beauty,1,30,30,Aug 2023,30-44
+734,10-01-2023,CUST734,Female,27, Gujarat ,Clothing,1,30,30,Jan 2023,Under 30
+735,04-10-2023,CUST735,Female,64, Tamil Nadu ,Clothing,4,500,2000,Oct 2023,60+
+736,27-01-2023,CUST736,Male,29, Tamil Nadu ,Clothing,4,25,100,Jan 2023,Under 30
+737,29-06-2023,CUST737,Female,33, Madhya Pradesh ,Clothing,1,50,50,Jun 2023,30-44
+738,25-04-2023,CUST738,Male,41, Meghalaya ,Clothing,2,50,100,Apr 2023,30-44
+739,29-11-2023,CUST739,Male,36, Madhya Pradesh ,Beauty,1,25,25,Nov 2023,30-44
+740,05-02-2023,CUST740,Female,25, Haryana ,Beauty,4,50,200,Feb 2023,Under 30
+741,30-11-2023,CUST741,Male,48, Chhattisgarh ,Clothing,1,300,300,Nov 2023,45-59
+742,21-01-2023,CUST742,Female,38, Rajasthan ,Electronics,4,500,2000,Jan 2023,30-44
+743,16-01-2023,CUST743,Female,34, Tamil Nadu ,Beauty,4,500,2000,Jan 2023,30-44
+744,07-05-2023,CUST744,Male,40, Andhra Pradesh ,Electronics,1,25,25,May 2023,30-44
+745,13-04-2023,CUST745,Male,54, Tripura ,Beauty,2,50,100,Apr 2023,45-59
+746,11-01-2023,CUST746,Female,33, West Bengal ,Clothing,3,30,90,Jan 2023,30-44
+747,15-11-2023,CUST747,Male,23, Tripura ,Beauty,1,30,30,Nov 2023,Under 30
+748,20-03-2023,CUST748,Male,25, Bihar ,Clothing,3,50,150,Mar 2023,Under 30
+749,03-05-2023,CUST749,Male,42, Tripura ,Beauty,1,30,30,May 2023,30-44
+750,06-03-2023,CUST750,Female,35, Maharashtra ,Clothing,3,25,75,Mar 2023,30-44
+751,31-08-2023,CUST751,Female,42, Haryana ,Clothing,2,25,50,Aug 2023,30-44
+752,09-12-2023,CUST752,Male,29, Goa ,Clothing,2,50,100,Dec 2023,Under 30
+753,28-02-2023,CUST753,Female,32, Uttar Pradesh ,Clothing,1,30,30,Feb 2023,30-44
+754,16-10-2023,CUST754,Female,43, Tamil Nadu ,Electronics,4,25,100,Oct 2023,30-44
+755,22-04-2023,CUST755,Female,58, Mizoram ,Clothing,3,25,75,Apr 2023,45-59
+756,27-08-2023,CUST756,Female,62, Manipur ,Electronics,4,300,1200,Aug 2023,60+
+757,25-12-2023,CUST757,Female,43, Arunachal Pradesh ,Electronics,4,300,1200,Dec 2023,30-44
+758,12-05-2023,CUST758,Male,64, Nagaland ,Clothing,4,25,100,May 2023,60+
+759,08-07-2023,CUST759,Male,49, Haryana ,Electronics,2,50,100,Jul 2023,45-59
+760,27-03-2023,CUST760,Male,27, West Bengal ,Beauty,1,500,500,Mar 2023,Under 30
+761,07-11-2023,CUST761,Female,33, Bihar ,Clothing,1,500,500,Nov 2023,30-44
+762,07-11-2023,CUST762,Female,24, Manipur ,Electronics,2,25,50,Nov 2023,Under 30
+763,28-02-2023,CUST763,Male,34, Chhattisgarh ,Clothing,2,25,50,Feb 2023,30-44
+764,25-03-2023,CUST764,Female,40, Uttar Pradesh ,Clothing,1,25,25,Mar 2023,30-44
+765,09-06-2023,CUST765,Male,43, Manipur ,Clothing,4,50,200,Jun 2023,30-44
+766,25-02-2023,CUST766,Male,38, Sikkim ,Electronics,3,300,900,Feb 2023,30-44
+767,24-10-2023,CUST767,Male,39, Mizoram ,Beauty,3,25,75,Oct 2023,30-44
+768,14-01-2023,CUST768,Female,24, Nagaland ,Beauty,3,25,75,Jan 2023,Under 30
+769,09-06-2023,CUST769,Female,31, Punjab ,Electronics,4,30,120,Jun 2023,30-44
+770,22-10-2023,CUST770,Male,32, Karnataka ,Clothing,1,50,50,Oct 2023,30-44
+771,13-12-2023,CUST771,Male,24, Tripura ,Electronics,2,25,50,Dec 2023,Under 30
+772,12-07-2023,CUST772,Male,26, Manipur ,Electronics,1,30,30,Jul 2023,Under 30
+773,23-07-2023,CUST773,Male,25, Punjab ,Electronics,4,500,2000,Jul 2023,Under 30
+774,12-04-2023,CUST774,Female,40, Uttarakhand ,Clothing,2,25,50,Apr 2023,30-44
+775,08-02-2023,CUST775,Female,46, Telangana ,Electronics,4,25,100,Feb 2023,45-59
+776,31-10-2023,CUST776,Male,35, Mizoram ,Clothing,3,30,90,Oct 2023,30-44
+777,20-12-2023,CUST777,Male,48, Maharashtra ,Electronics,3,50,150,Dec 2023,45-59
+778,18-11-2023,CUST778,Female,47, Uttarakhand ,Beauty,4,25,100,Nov 2023,45-59
+779,05-05-2023,CUST779,Female,56, Nagaland ,Electronics,2,500,1000,May 2023,45-59
+780,22-02-2023,CUST780,Male,52, Manipur ,Electronics,2,25,50,Feb 2023,45-59
+781,23-12-2023,CUST781,Male,35, Goa ,Beauty,1,500,500,Dec 2023,30-44
+782,04-06-2023,CUST782,Male,59, Telangana ,Clothing,3,300,900,Jun 2023,45-59
+783,17-12-2023,CUST783,Female,56, West Bengal ,Clothing,1,300,300,Dec 2023,45-59
+784,04-11-2023,CUST784,Female,34, Meghalaya ,Electronics,1,500,500,Nov 2023,30-44
+785,03-03-2023,CUST785,Female,31, Manipur ,Beauty,4,50,200,Mar 2023,30-44
+786,17-10-2023,CUST786,Male,48, Himachal Pradesh ,Clothing,4,25,100,Oct 2023,45-59
+787,22-01-2023,CUST787,Male,41, Tripura ,Electronics,1,25,25,Jan 2023,30-44
+788,27-06-2023,CUST788,Female,52, Haryana ,Beauty,3,300,900,Jun 2023,45-59
+789,30-09-2023,CUST789,Female,61, Uttarakhand ,Clothing,4,500,2000,Sep 2023,60+
+790,08-08-2023,CUST790,Male,62, Rajasthan ,Clothing,1,25,25,Aug 2023,60+
+791,05-12-2023,CUST791,Female,51, Himachal Pradesh ,Beauty,1,25,25,Dec 2023,45-59
+792,09-07-2023,CUST792,Female,20, Tripura ,Beauty,1,50,50,Jul 2023,Under 30
+793,05-02-2023,CUST793,Male,54, Tripura ,Beauty,1,30,30,Feb 2023,45-59
+794,17-09-2023,CUST794,Female,60, Mizoram ,Beauty,1,300,300,Sep 2023,60+
+795,28-11-2023,CUST795,Male,57, Meghalaya ,Electronics,1,300,300,Nov 2023,45-59
+796,24-06-2023,CUST796,Male,43, Rajasthan ,Beauty,4,30,120,Jun 2023,30-44
+797,07-01-2023,CUST797,Male,40, Haryana ,Clothing,3,25,75,Jan 2023,30-44
+798,04-08-2023,CUST798,Male,61, Himachal Pradesh ,Clothing,1,50,50,Aug 2023,60+
+799,08-09-2023,CUST799,Male,56, Manipur ,Electronics,2,50,100,Sep 2023,45-59
+800,24-02-2023,CUST800,Male,32, Assam ,Clothing,4,300,1200,Feb 2023,30-44
+801,10-08-2023,CUST801,Male,21, Tamil Nadu ,Clothing,4,50,200,Aug 2023,Under 30
+802,05-07-2023,CUST802,Female,46, Jharkhand ,Beauty,1,30,30,Jul 2023,45-59
+803,22-11-2023,CUST803,Male,39, Haryana ,Clothing,4,25,100,Nov 2023,30-44
+804,24-08-2023,CUST804,Male,42, Himachal Pradesh ,Electronics,1,30,30,Aug 2023,30-44
+805,29-12-2023,CUST805,Female,30, Karnataka ,Beauty,3,500,1500,Dec 2023,30-44
+806,20-03-2023,CUST806,Female,35, Karnataka ,Beauty,3,300,900,Mar 2023,30-44
+807,11-08-2023,CUST807,Female,50, Nagaland ,Electronics,4,50,200,Aug 2023,45-59
+808,01-04-2023,CUST808,Male,33, Assam ,Beauty,4,500,2000,Apr 2023,30-44
+809,25-09-2023,CUST809,Female,62, Chhattisgarh ,Beauty,2,50,100,Sep 2023,60+
+810,30-11-2023,CUST810,Male,59, Chhattisgarh ,Electronics,4,25,100,Nov 2023,45-59
+811,19-05-2023,CUST811,Male,61, Haryana ,Beauty,2,25,50,May 2023,60+
+812,12-11-2023,CUST812,Male,19, Madhya Pradesh ,Electronics,3,25,75,Nov 2023,Under 30
+813,03-10-2023,CUST813,Male,52, Tamil Nadu ,Electronics,3,50,150,Oct 2023,45-59
+814,05-09-2023,CUST814,Female,59, Chhattisgarh ,Clothing,1,500,500,Sep 2023,45-59
+815,27-08-2023,CUST815,Female,51, Tamil Nadu ,Clothing,3,25,75,Aug 2023,45-59
+816,12-08-2023,CUST816,Male,47, Gujarat ,Beauty,2,500,1000,Aug 2023,45-59
+817,31-10-2023,CUST817,Male,30, Assam ,Beauty,4,50,200,Oct 2023,30-44
+818,18-05-2023,CUST818,Male,30, Maharashtra ,Electronics,1,500,500,May 2023,30-44
+819,15-06-2023,CUST819,Female,35, Maharashtra ,Beauty,2,50,100,Jun 2023,30-44
+820,06-05-2023,CUST820,Male,49, Karnataka ,Electronics,4,50,200,May 2023,45-59
+821,14-02-2023,CUST821,Male,49, Nagaland ,Electronics,1,300,300,Feb 2023,45-59
+822,23-05-2023,CUST822,Female,52, Manipur ,Beauty,3,50,150,May 2023,45-59
+823,19-08-2023,CUST823,Female,56, Maharashtra ,Electronics,2,50,100,Aug 2023,45-59
+824,05-05-2023,CUST824,Male,63, Arunachal Pradesh ,Clothing,4,30,120,May 2023,60+
+825,26-08-2023,CUST825,Female,46, Gujarat ,Beauty,1,25,25,Aug 2023,45-59
+826,19-10-2023,CUST826,Female,46, Uttarakhand ,Clothing,1,300,300,Oct 2023,45-59
+827,09-11-2023,CUST827,Male,61, Maharashtra ,Beauty,3,300,900,Nov 2023,60+
+828,09-12-2023,CUST828,Female,33, Madhya Pradesh ,Electronics,4,300,1200,Dec 2023,30-44
+829,14-07-2023,CUST829,Male,61, Tripura ,Beauty,3,30,90,Jul 2023,60+
+830,22-06-2023,CUST830,Female,64, Odisha ,Clothing,3,50,150,Jun 2023,60+
+831,15-01-2023,CUST831,Male,27, Tamil Nadu ,Electronics,4,25,100,Jan 2023,Under 30
+832,11-09-2023,CUST832,Male,47, Andhra Pradesh ,Beauty,4,500,2000,Sep 2023,45-59
+833,16-06-2023,CUST833,Male,42, West Bengal ,Beauty,4,50,200,Jun 2023,30-44
+834,04-04-2023,CUST834,Female,56, Tripura ,Beauty,2,30,60,Apr 2023,45-59
+835,07-09-2023,CUST835,Male,37, Odisha ,Clothing,4,50,200,Sep 2023,30-44
+836,19-04-2023,CUST836,Female,22, Madhya Pradesh ,Clothing,1,50,50,Apr 2023,Under 30
+837,01-07-2023,CUST837,Male,18, Meghalaya ,Beauty,3,30,90,Jul 2023,Under 30
+838,13-05-2023,CUST838,Male,47, Andhra Pradesh ,Electronics,2,300,600,May 2023,45-59
+839,24-06-2023,CUST839,Female,20, Kerala ,Electronics,4,300,1200,Jun 2023,Under 30
+840,24-05-2023,CUST840,Male,62, Jharkhand ,Clothing,2,25,50,May 2023,60+
+841,02-11-2023,CUST841,Male,31, Tripura ,Electronics,4,25,100,Nov 2023,30-44
+842,26-12-2023,CUST842,Female,47, Madhya Pradesh ,Clothing,2,300,600,Dec 2023,45-59
+843,22-05-2023,CUST843,Male,21, West Bengal ,Beauty,3,500,1500,May 2023,Under 30
+844,12-10-2023,CUST844,Male,35, Uttarakhand ,Clothing,3,50,150,Oct 2023,30-44
+845,06-01-2023,CUST845,Male,54, Maharashtra ,Clothing,1,500,500,Jan 2023,45-59
+846,22-09-2023,CUST846,Male,42, Nagaland ,Beauty,1,50,50,Sep 2023,30-44
+847,08-04-2023,CUST847,Female,18, Telangana ,Electronics,4,300,1200,Apr 2023,Under 30
+848,13-02-2023,CUST848,Female,63, Telangana ,Clothing,3,25,75,Feb 2023,60+
+849,04-05-2023,CUST849,Male,32, Nagaland ,Clothing,2,25,50,May 2023,30-44
+850,28-07-2023,CUST850,Female,26, Uttar Pradesh ,Beauty,2,500,1000,Jul 2023,Under 30
+851,08-09-2023,CUST851,Male,32, Punjab ,Electronics,2,25,50,Sep 2023,30-44
+852,12-10-2023,CUST852,Female,41, Haryana ,Clothing,1,300,300,Oct 2023,30-44
+853,04-05-2023,CUST853,Male,21, Meghalaya ,Beauty,2,500,1000,May 2023,Under 30
+854,20-12-2023,CUST854,Male,29, Haryana ,Clothing,1,50,50,Dec 2023,Under 30
+855,01-09-2023,CUST855,Male,54, Himachal Pradesh ,Beauty,1,25,25,Sep 2023,45-59
+856,27-11-2023,CUST856,Male,54, Maharashtra ,Electronics,4,30,120,Nov 2023,45-59
+857,31-12-2023,CUST857,Male,60, Meghalaya ,Electronics,2,25,50,Dec 2023,60+
+858,09-09-2023,CUST858,Male,23, Andhra Pradesh ,Electronics,2,50,100,Sep 2023,Under 30
+859,18-08-2023,CUST859,Female,56, Madhya Pradesh ,Electronics,3,500,1500,Aug 2023,45-59
+860,09-01-2023,CUST860,Male,63, Karnataka ,Clothing,4,50,200,Jan 2023,60+
+861,17-02-2023,CUST861,Female,41, Sikkim ,Clothing,3,30,90,Feb 2023,30-44
+862,31-05-2023,CUST862,Male,28, Sikkim ,Electronics,4,300,1200,May 2023,Under 30
+863,24-04-2023,CUST863,Female,30, Uttar Pradesh ,Electronics,2,25,50,Apr 2023,30-44
+864,27-07-2023,CUST864,Female,51, Madhya Pradesh ,Electronics,1,500,500,Jul 2023,45-59
+865,21-12-2023,CUST865,Female,42, Telangana ,Clothing,1,300,300,Dec 2023,30-44
+866,05-05-2023,CUST866,Male,24, Goa ,Electronics,1,50,50,May 2023,Under 30
+867,06-06-2023,CUST867,Male,21, Uttarakhand ,Electronics,1,500,500,Jun 2023,Under 30
+868,06-12-2023,CUST868,Female,25, Manipur ,Electronics,1,300,300,Dec 2023,Under 30
+869,25-10-2023,CUST869,Male,37, Chhattisgarh ,Beauty,3,500,1500,Oct 2023,30-44
+870,08-07-2023,CUST870,Female,46, Punjab ,Electronics,4,30,120,Jul 2023,45-59
+871,31-08-2023,CUST871,Male,62, Nagaland ,Beauty,2,30,60,Aug 2023,60+
+872,11-10-2023,CUST872,Female,63, Andhra Pradesh ,Beauty,3,25,75,Oct 2023,60+
+873,29-09-2023,CUST873,Female,27, Madhya Pradesh ,Electronics,4,25,100,Sep 2023,Under 30
+874,26-06-2023,CUST874,Male,60, Odisha ,Beauty,1,30,30,Jun 2023,60+
+875,06-08-2023,CUST875,Female,51, Odisha ,Electronics,4,500,2000,Aug 2023,45-59
+876,09-10-2023,CUST876,Male,43, Sikkim ,Clothing,4,30,120,Oct 2023,30-44
+877,19-06-2023,CUST877,Female,58, Andhra Pradesh ,Clothing,1,25,25,Jun 2023,45-59
+878,30-06-2023,CUST878,Female,20, Assam ,Clothing,1,30,30,Jun 2023,Under 30
+879,26-12-2023,CUST879,Male,23, Rajasthan ,Clothing,1,30,30,Dec 2023,Under 30
+880,21-08-2023,CUST880,Male,22, Maharashtra ,Beauty,2,500,1000,Aug 2023,Under 30
+881,19-05-2023,CUST881,Male,22, Chhattisgarh ,Electronics,1,300,300,May 2023,Under 30
+882,06-06-2023,CUST882,Female,64, West Bengal ,Electronics,2,25,50,Jun 2023,60+
+883,09-05-2023,CUST883,Male,40, Manipur ,Electronics,1,500,500,May 2023,30-44
+884,29-04-2023,CUST884,Female,26, Goa ,Clothing,2,30,60,Apr 2023,Under 30
+885,03-03-2023,CUST885,Female,52, Arunachal Pradesh ,Clothing,4,30,120,Mar 2023,45-59
+886,09-04-2023,CUST886,Male,37, Himachal Pradesh ,Electronics,3,300,900,Apr 2023,30-44
+887,11-06-2023,CUST887,Male,59, Madhya Pradesh ,Clothing,4,25,100,Jun 2023,45-59
+888,03-03-2023,CUST888,Female,52, Karnataka ,Electronics,4,25,100,Mar 2023,45-59
+889,02-10-2023,CUST889,Female,35, Gujarat ,Electronics,1,50,50,Oct 2023,30-44
+890,20-12-2023,CUST890,Male,34, Manipur ,Electronics,2,25,50,Dec 2023,30-44
+891,05-04-2023,CUST891,Male,41, Karnataka ,Electronics,3,300,900,Apr 2023,30-44
+892,09-04-2023,CUST892,Male,20, Karnataka ,Electronics,1,50,50,Apr 2023,Under 30
+893,21-04-2023,CUST893,Male,49, Tripura ,Electronics,1,50,50,Apr 2023,45-59
+894,05-09-2023,CUST894,Male,52, Madhya Pradesh ,Electronics,1,30,30,Sep 2023,45-59
+895,22-05-2023,CUST895,Female,55, Himachal Pradesh ,Clothing,4,30,120,May 2023,45-59
+896,29-10-2023,CUST896,Female,30, Tripura ,Electronics,2,25,50,Oct 2023,30-44
+897,26-09-2023,CUST897,Female,64, Uttarakhand ,Electronics,2,50,100,Sep 2023,60+
+898,02-11-2023,CUST898,Female,42, Maharashtra ,Clothing,3,30,90,Nov 2023,30-44
+899,25-05-2023,CUST899,Male,26, Himachal Pradesh ,Clothing,2,300,600,May 2023,Under 30
+900,21-02-2023,CUST900,Male,21, Uttarakhand ,Clothing,2,30,60,Feb 2023,Under 30
+901,10-04-2023,CUST901,Male,31, Assam ,Electronics,1,30,30,Apr 2023,30-44
+902,01-06-2023,CUST902,Female,54, Meghalaya ,Beauty,1,50,50,Jun 2023,45-59
+903,27-04-2023,CUST903,Female,51, Andhra Pradesh ,Beauty,4,50,200,Apr 2023,45-59
+904,04-07-2023,CUST904,Male,28, Telangana ,Clothing,1,500,500,Jul 2023,Under 30
+905,02-04-2023,CUST905,Male,58, Nagaland ,Beauty,1,300,300,Apr 2023,45-59
+906,04-06-2023,CUST906,Female,20, Arunachal Pradesh ,Clothing,1,50,50,Jun 2023,Under 30
+907,08-01-2023,CUST907,Female,45, Kerala ,Electronics,1,25,25,Jan 2023,45-59
+908,29-12-2023,CUST908,Male,46, Haryana ,Beauty,4,300,1200,Dec 2023,45-59
+909,01-10-2023,CUST909,Male,26, Rajasthan ,Electronics,1,300,300,Oct 2023,Under 30
+910,06-03-2023,CUST910,Female,20, Assam ,Beauty,3,50,150,Mar 2023,Under 30
+911,21-05-2023,CUST911,Male,42, Tripura ,Electronics,3,300,900,May 2023,30-44
+912,24-01-2023,CUST912,Male,51, Rajasthan ,Beauty,3,50,150,Jan 2023,45-59
+913,28-01-2023,CUST913,Male,29, Arunachal Pradesh ,Electronics,3,30,90,Jan 2023,Under 30
+914,11-10-2023,CUST914,Female,59, Tripura ,Electronics,1,500,500,Oct 2023,45-59
+915,30-05-2023,CUST915,Female,26, Andhra Pradesh ,Beauty,3,30,90,May 2023,Under 30
+916,24-12-2023,CUST916,Female,32, Haryana ,Electronics,1,50,50,Dec 2023,30-44
+917,06-03-2023,CUST917,Female,57, Gujarat ,Electronics,4,50,200,Mar 2023,45-59
+918,23-11-2023,CUST918,Female,42, Uttarakhand ,Electronics,3,30,90,Nov 2023,30-44
+919,09-09-2023,CUST919,Female,22, Andhra Pradesh ,Beauty,2,25,50,Sep 2023,Under 30
+920,22-02-2023,CUST920,Female,28, Punjab ,Beauty,3,25,75,Feb 2023,Under 30
+921,07-01-2023,CUST921,Male,51, Chhattisgarh ,Electronics,3,25,75,Jan 2023,45-59
+922,21-10-2023,CUST922,Male,41, Haryana ,Electronics,1,50,50,Oct 2023,30-44
+923,26-05-2023,CUST923,Male,32, Chhattisgarh ,Beauty,3,300,900,May 2023,30-44
+924,29-08-2023,CUST924,Male,55, Meghalaya ,Beauty,2,50,100,Aug 2023,45-59
+925,03-09-2023,CUST925,Male,25, Sikkim ,Electronics,1,300,300,Sep 2023,Under 30
+926,14-08-2023,CUST926,Male,22, Bihar ,Electronics,1,30,30,Aug 2023,Under 30
+927,24-06-2023,CUST927,Male,43, Odisha ,Electronics,4,500,2000,Jun 2023,30-44
+928,05-04-2023,CUST928,Female,35, Gujarat ,Clothing,4,300,1200,Apr 2023,30-44
+929,27-01-2023,CUST929,Female,23, Manipur ,Beauty,3,25,75,Jan 2023,Under 30
+930,10-05-2023,CUST930,Male,54, Tamil Nadu ,Clothing,4,50,200,May 2023,45-59
+931,02-09-2023,CUST931,Male,30, Himachal Pradesh ,Beauty,4,30,120,Sep 2023,30-44
+932,28-02-2023,CUST932,Female,45, Tripura ,Beauty,4,25,100,Feb 2023,45-59
+933,03-02-2023,CUST933,Male,22, Kerala ,Beauty,1,30,30,Feb 2023,Under 30
+934,25-07-2023,CUST934,Male,30, Goa ,Beauty,1,500,500,Jul 2023,30-44
+935,09-09-2023,CUST935,Female,34, Punjab ,Beauty,1,50,50,Sep 2023,30-44
+936,07-02-2023,CUST936,Male,57, Punjab ,Beauty,4,50,200,Feb 2023,45-59
+937,23-10-2023,CUST937,Female,62, Telangana ,Beauty,1,500,500,Oct 2023,60+
+938,19-11-2023,CUST938,Male,49, Tamil Nadu ,Clothing,4,50,200,Nov 2023,45-59
+939,18-12-2023,CUST939,Female,46, Bihar ,Electronics,1,300,300,Dec 2023,45-59
+940,28-01-2023,CUST940,Female,20, Tripura ,Electronics,1,30,30,Jan 2023,Under 30
+941,19-03-2023,CUST941,Female,57, Uttarakhand ,Clothing,2,25,50,Mar 2023,45-59
+942,18-03-2023,CUST942,Male,51, Goa ,Clothing,3,500,1500,Mar 2023,45-59
+943,16-10-2023,CUST943,Female,57, Jharkhand ,Clothing,4,300,1200,Oct 2023,45-59
+944,05-06-2023,CUST944,Male,44, Bihar ,Clothing,2,25,50,Jun 2023,30-44
+945,13-02-2023,CUST945,Male,30, Odisha ,Beauty,1,25,25,Feb 2023,30-44
+946,08-05-2023,CUST946,Male,62, Andhra Pradesh ,Electronics,4,500,2000,May 2023,60+
+947,02-03-2023,CUST947,Male,50, Jharkhand ,Beauty,1,300,300,Mar 2023,45-59
+948,13-10-2023,CUST948,Female,23, Odisha ,Electronics,3,25,75,Oct 2023,Under 30
+949,02-08-2023,CUST949,Female,41, Sikkim ,Electronics,2,25,50,Aug 2023,30-44
+950,07-11-2023,CUST950,Male,36, Madhya Pradesh ,Clothing,3,300,900,Nov 2023,30-44
+951,02-11-2023,CUST951,Male,33, Madhya Pradesh ,Beauty,2,50,100,Nov 2023,30-44
+952,13-11-2023,CUST952,Female,57, Tamil Nadu ,Clothing,1,25,25,Nov 2023,45-59
+953,26-04-2023,CUST953,Male,45, Gujarat ,Beauty,3,30,90,Apr 2023,45-59
+954,25-09-2023,CUST954,Female,50, Assam ,Electronics,3,300,900,Sep 2023,45-59
+955,14-07-2023,CUST955,Male,58, Odisha ,Clothing,1,25,25,Jul 2023,45-59
+956,19-08-2023,CUST956,Male,30, Tamil Nadu ,Clothing,3,500,1500,Aug 2023,30-44
+957,15-08-2023,CUST957,Female,60, Uttarakhand ,Electronics,4,30,120,Aug 2023,60+
+958,02-06-2023,CUST958,Male,62, Rajasthan ,Electronics,2,25,50,Jun 2023,60+
+959,29-10-2023,CUST959,Female,42, Haryana ,Electronics,2,30,60,Oct 2023,30-44
+960,08-08-2023,CUST960,Male,59, Bihar ,Clothing,2,30,60,Aug 2023,45-59
+961,06-06-2023,CUST961,Male,53, Tamil Nadu ,Beauty,4,50,200,Jun 2023,45-59
+962,19-10-2023,CUST962,Male,44, Tripura ,Clothing,2,30,60,Oct 2023,30-44
+963,14-11-2023,CUST963,Female,55, Jharkhand ,Beauty,1,50,50,Nov 2023,45-59
+964,31-01-2023,CUST964,Male,24, West Bengal ,Clothing,3,300,900,Jan 2023,Under 30
+965,09-11-2023,CUST965,Male,22, Sikkim ,Clothing,4,50,200,Nov 2023,Under 30
+966,20-02-2023,CUST966,Male,60, Punjab ,Electronics,2,500,1000,Feb 2023,60+
+967,17-04-2023,CUST967,Male,62, Uttar Pradesh ,Beauty,1,25,25,Apr 2023,60+
+968,17-11-2023,CUST968,Female,48, Bihar ,Clothing,3,300,900,Nov 2023,45-59
+969,19-04-2023,CUST969,Female,40, Uttar Pradesh ,Clothing,3,300,900,Apr 2023,30-44
+970,16-05-2023,CUST970,Male,59, Odisha ,Electronics,4,500,2000,May 2023,45-59
+971,05-12-2023,CUST971,Female,27, Uttar Pradesh ,Electronics,4,50,200,Dec 2023,Under 30
+972,11-02-2023,CUST972,Male,49, Arunachal Pradesh ,Beauty,4,25,100,Feb 2023,45-59
+973,22-03-2023,CUST973,Male,60, Kerala ,Clothing,1,50,50,Mar 2023,60+
+974,03-05-2023,CUST974,Male,47, Nagaland ,Beauty,1,30,30,May 2023,45-59
+975,30-03-2023,CUST975,Female,56, Maharashtra ,Clothing,4,50,200,Mar 2023,45-59
+976,10-10-2023,CUST976,Female,48, Sikkim ,Beauty,2,300,600,Oct 2023,45-59
+977,08-02-2023,CUST977,Female,35, Kerala ,Electronics,3,25,75,Feb 2023,30-44
+978,22-03-2023,CUST978,Female,53, Assam ,Clothing,3,50,150,Mar 2023,45-59
+979,02-01-2023,CUST979,Female,19, Mizoram ,Beauty,1,25,25,Jan 2023,Under 30
+980,29-07-2023,CUST980,Female,31, Rajasthan ,Electronics,3,25,75,Jul 2023,30-44
+981,19-08-2023,CUST981,Female,30, Karnataka ,Electronics,2,30,60,Aug 2023,30-44
+982,19-12-2023,CUST982,Female,46, Andhra Pradesh ,Beauty,3,30,90,Dec 2023,45-59
+983,01-11-2023,CUST983,Female,29, West Bengal ,Clothing,1,300,300,Nov 2023,Under 30
+984,29-08-2023,CUST984,Male,56, Maharashtra ,Clothing,1,500,500,Aug 2023,45-59
+985,30-05-2023,CUST985,Female,19, Uttarakhand ,Electronics,2,25,50,May 2023,Under 30
+986,17-01-2023,CUST986,Female,49, Meghalaya ,Clothing,2,500,1000,Jan 2023,45-59
+987,29-04-2023,CUST987,Female,30, Bihar ,Clothing,3,300,900,Apr 2023,30-44
+988,28-05-2023,CUST988,Female,63, Maharashtra ,Clothing,3,25,75,May 2023,60+
+989,28-12-2023,CUST989,Female,44, Kerala ,Electronics,1,25,25,Dec 2023,30-44
+990,25-05-2023,CUST990,Female,58, Rajasthan ,Beauty,2,500,1000,May 2023,45-59
+991,26-12-2023,CUST991,Female,34, Uttarakhand ,Clothing,2,50,100,Dec 2023,30-44
+992,21-08-2023,CUST992,Female,57, Manipur ,Electronics,2,30,60,Aug 2023,45-59
+993,06-02-2023,CUST993,Female,48, Tamil Nadu ,Electronics,3,50,150,Feb 2023,45-59
+994,18-12-2023,CUST994,Female,51, Chhattisgarh ,Beauty,2,500,1000,Dec 2023,45-59
+995,30-04-2023,CUST995,Female,41, Maharashtra ,Clothing,1,30,30,Apr 2023,30-44
+996,16-05-2023,CUST996,Male,62, Goa ,Clothing,1,50,50,May 2023,60+
+997,17-11-2023,CUST997,Male,52, Telangana ,Beauty,3,30,90,Nov 2023,45-59
+998,29-10-2023,CUST998,Female,23, Mizoram ,Beauty,4,25,100,Oct 2023,Under 30
+999,05-12-2023,CUST999,Female,36, Rajasthan ,Electronics,3,50,150,Dec 2023,30-44
+1000,12-04-2023,CUST1000,Male,47, Himachal Pradesh ,Electronics,4,30,120,Apr 2023,45-59
